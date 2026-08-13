@@ -124,7 +124,7 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Mifos
 
-* [Fineract](https://github.com/apache/fineract/) ⭐ 2,369 | 🐛 88 | 🌐 Java | 📅 2026-08-12 - Apache Fineract: A Platform for Microfinance.
+* [Fineract](https://github.com/apache/fineract/) ⭐ 2,370 | 🐛 89 | 🌐 Java | 📅 2026-08-12 - Apache Fineract: A Platform for Microfinance.
 * [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
 
 #### Interledger
@@ -135,7 +135,7 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Other
 
-* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 16,780 | 🐛 120 | 🌐 Zig | 📅 2026-08-04 - The distributed financial transactions database designed for mission critical safety and performance.
+* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 16,782 | 🐛 120 | 🌐 Zig | 📅 2026-08-04 - The distributed financial transactions database designed for mission critical safety and performance.
 * [micro-finance](https://github.com/MicroPyramid/micro-finance) ⭐ 92 | 🐛 2 | 🌐 Python | 📅 2026-01-20 - Free Micro Finance Software.
 * [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
 
@@ -166,7 +166,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 
 * [electricityMap](https://github.com/electricitymap/electricitymap-contrib) ⭐ 4,022 | 🐛 165 | 🌐 Python | 📅 2026-08-12 - A real-time visualisation of the CO2 emissions of electricity consumption
   * [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md) ⭐ 4,022 | 🐛 165 | 🌐 Python | 📅 2026-08-12
-* [ETHOS.FINE](https://github.com/FZJ-IEK3-VSA/FINE) ⭐ 99 | 🐛 88 | 🌐 Python | 📅 2026-08-12 - Framework for Integrated Energy System Assessment
+* [ETHOS.FINE](https://github.com/FZJ-IEK3-VSA/FINE) ⭐ 99 | 🐛 88 | 🌐 Python | 📅 2026-08-13 - Framework for Integrated Energy System Assessment
 * [gridemissions](https://github.com/jdechalendar/gridemissions) ⭐ 42 | 🐛 8 | 🌐 Python | 📅 2024-07-25 - The tools in this repository power the visualization at energy.stanford.edu/gridemissions
 * [GEM](https://www.gem.wiki/Main_Page) - GEM Wiki, the shared resource on all things energy: fossil fuels, renewable energy sources, environmental impacts, and the global movement to transition to a clean energy system
 * [Energy Access Explorer](https://github.com/energyaccessexplorer) - Online and interactive geospatial platform that enables energy planners, clean energy entrepreneurs, donors, and development institutions to identify high-priority areas for energy access interventions.

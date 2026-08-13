@@ -754,7 +754,7 @@
             "last_commit": "2026-08-04T10:43:22Z",
             "owner": "tigerbeetle",
             "repo": "tigerbeetle",
-            "stars": 16780
+            "stars": 16782
           }
         },
         {
@@ -876,7 +876,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:00:43Z",
+            "last_commit": "2026-08-13T07:23:41Z",
             "owner": "FZJ-IEK3-VSA",
             "repo": "FINE",
             "stars": 99
@@ -901,7 +901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:14:25.182Z",
+    "last_updated": "2026-08-13T08:40:14.813Z",
     "original_repository": "open-risk/awesome-sustainable-finance",
     "original_repository_sha": "d1ff5ebac7a1b051eb8071590f24c8b279c7dd8d",
     "enhanced_repository": "enhansome/enhansome-sustainable-finance",
