@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T14:34:40Z",
+            "last_commit": "2026-08-14T16:38:59Z",
             "owner": "open-risk",
             "repo": "equinox",
             "stars": 52
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-13T21:40:51Z",
             "owner": "ONEcampaign",
             "repo": "climate-finance-package",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-07-19T18:33:40Z",
             "owner": "hubblo-org",
             "repo": "scaphandre",
-            "stars": 1961
+            "stars": 1962
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-06-23T08:30:44Z",
             "owner": "IndEcol",
             "repo": "pymrio",
-            "stars": 220
+            "stars": 221
           }
         },
         {
@@ -213,7 +213,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T07:40:53Z",
+            "last_commit": "2026-08-15T05:02:53Z",
             "owner": "Open-Earth-Foundation",
             "repo": "CityCatalyst",
             "stars": 45
@@ -617,7 +617,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-04T12:29:25Z",
+            "last_commit": "2026-08-14T09:37:24Z",
             "owner": "IAMconsortium",
             "repo": "nomenclature",
             "stars": 24
@@ -731,7 +731,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T03:55:49Z",
+            "last_commit": "2026-08-15T00:11:23Z",
             "owner": "interledger",
             "repo": "web-monetization-extension",
             "stars": 150
@@ -754,7 +754,7 @@
             "last_commit": "2026-08-04T10:43:22Z",
             "owner": "tigerbeetle",
             "repo": "tigerbeetle",
-            "stars": 16785
+            "stars": 16790
           }
         },
         {
@@ -852,7 +852,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-12T08:14:07Z",
+                "last_commit": "2026-08-14T11:24:24Z",
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
                 "stars": 4021
@@ -862,7 +862,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T08:14:07Z",
+            "last_commit": "2026-08-14T11:24:24Z",
             "owner": "electricitymaps",
             "repo": "electricitymaps-contrib",
             "stars": 4021
@@ -901,7 +901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:24:22.847Z",
+    "last_updated": "2026-08-15T07:38:30.094Z",
     "original_repository": "open-risk/awesome-sustainable-finance",
     "original_repository_sha": "d1ff5ebac7a1b051eb8071590f24c8b279c7dd8d",
     "enhanced_repository": "enhansome/enhansome-sustainable-finance",
