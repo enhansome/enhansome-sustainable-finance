@@ -118,7 +118,7 @@
             "last_commit": "2026-07-19T18:33:40Z",
             "owner": "hubblo-org",
             "repo": "scaphandre",
-            "stars": 1962
+            "stars": 1961
           }
         },
         {
@@ -754,7 +754,7 @@
             "last_commit": "2026-08-04T10:43:22Z",
             "owner": "tigerbeetle",
             "repo": "tigerbeetle",
-            "stars": 16790
+            "stars": 16793
           }
         },
         {
@@ -855,7 +855,7 @@
                 "last_commit": "2026-08-14T11:24:24Z",
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
-                "stars": 4021
+                "stars": 4022
               }
             }
           ],
@@ -865,7 +865,7 @@
             "last_commit": "2026-08-14T11:24:24Z",
             "owner": "electricitymaps",
             "repo": "electricitymaps-contrib",
-            "stars": 4021
+            "stars": 4022
           }
         },
         {
@@ -901,7 +901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:38:30.094Z",
+    "last_updated": "2026-08-16T07:39:57.402Z",
     "original_repository": "open-risk/awesome-sustainable-finance",
     "original_repository_sha": "d1ff5ebac7a1b051eb8071590f24c8b279c7dd8d",
     "enhanced_repository": "enhansome/enhansome-sustainable-finance",
