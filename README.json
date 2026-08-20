@@ -231,7 +231,7 @@
                 "archived": false,
                 "id": 639568639,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T11:30:51Z",
+                "last_commit": "2026-08-19T17:07:03Z",
                 "owner": "Open-Earth-Foundation",
                 "repo": "CityCatalyst",
                 "stars": 45
@@ -560,7 +560,7 @@
                 "archived": false,
                 "id": 157362644,
                 "language": "Python",
-                "last_commit": "2026-08-16T16:10:56Z",
+                "last_commit": "2026-08-19T14:45:47Z",
                 "owner": "polca",
                 "repo": "premise",
                 "stars": 184
@@ -665,7 +665,7 @@
                 "archived": false,
                 "id": 375724610,
                 "language": "Python",
-                "last_commit": "2026-08-14T09:37:24Z",
+                "last_commit": "2026-08-20T05:14:42Z",
                 "owner": "IAMconsortium",
                 "repo": "nomenclature",
                 "stars": 24
@@ -781,7 +781,7 @@
                         "archived": false,
                         "id": 671063129,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-19T09:13:39Z",
+                        "last_commit": "2026-08-20T07:29:12Z",
                         "owner": "interledger",
                         "repo": "web-monetization-extension",
                         "stars": 150
@@ -806,7 +806,7 @@
                         "last_commit": "2026-08-18T14:22:21Z",
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 16844
+                        "stars": 16847
                       }
                     },
                     {
@@ -998,7 +998,7 @@
             "last_commit": "2026-08-18T06:28:44Z",
             "owner": "protontypes",
             "repo": "open-sustainable-technology",
-            "stars": 2542
+            "stars": 2543
           }
         },
         {
@@ -1111,7 +1111,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:55.080Z",
+    "last_updated": "2026-08-20T07:52:10.583Z",
     "original_repository": "open-risk/awesome-sustainable-finance",
     "original_repository_id": 492807960,
     "original_repository_sha": "d1ff5ebac7a1b051eb8071590f24c8b279c7dd8d",
