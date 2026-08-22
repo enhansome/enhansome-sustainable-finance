@@ -231,7 +231,7 @@
                 "archived": false,
                 "id": 639568639,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T14:10:47Z",
+                "last_commit": "2026-08-21T20:57:47Z",
                 "owner": "Open-Earth-Foundation",
                 "repo": "CityCatalyst",
                 "stars": 45
@@ -560,7 +560,7 @@
                 "archived": false,
                 "id": 157362644,
                 "language": "Python",
-                "last_commit": "2026-08-21T07:52:09Z",
+                "last_commit": "2026-08-21T13:32:11Z",
                 "owner": "polca",
                 "repo": "premise",
                 "stars": 184
@@ -781,7 +781,7 @@
                         "archived": false,
                         "id": 671063129,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-21T00:12:28Z",
+                        "last_commit": "2026-08-22T00:12:13Z",
                         "owner": "interledger",
                         "repo": "web-monetization-extension",
                         "stars": 150
@@ -806,7 +806,7 @@
                         "last_commit": "2026-08-18T14:22:21Z",
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 16856
+                        "stars": 16873
                       }
                     },
                     {
@@ -871,7 +871,7 @@
                 "archived": false,
                 "id": 299948593,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:42:53Z",
+                "last_commit": "2026-08-21T09:02:51Z",
                 "owner": "openghg",
                 "repo": "openghg",
                 "stars": 46
@@ -928,10 +928,10 @@
                     "archived": false,
                     "id": 59370571,
                     "language": "Python",
-                    "last_commit": "2026-08-21T07:50:02Z",
+                    "last_commit": "2026-08-21T12:32:10Z",
                     "owner": "electricitymaps",
                     "repo": "electricitymaps-contrib",
-                    "stars": 4022
+                    "stars": 4023
                   }
                 }
               ],
@@ -939,10 +939,10 @@
                 "archived": false,
                 "id": 59370571,
                 "language": "Python",
-                "last_commit": "2026-08-21T07:50:02Z",
+                "last_commit": "2026-08-21T12:32:10Z",
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
-                "stars": 4022
+                "stars": 4023
               }
             },
             {
@@ -954,7 +954,7 @@
                 "archived": false,
                 "id": 139456829,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:33:19Z",
+                "last_commit": "2026-08-21T14:02:26Z",
                 "owner": "FZJ-IEK3-VSA",
                 "repo": "FINE",
                 "stars": 100
@@ -1010,7 +1010,7 @@
             "archived": false,
             "id": 385678818,
             "language": null,
-            "last_commit": "2026-08-07T16:44:09Z",
+            "last_commit": "2026-08-21T14:43:50Z",
             "owner": "moov-io",
             "repo": "awesome-fintech",
             "stars": 364
@@ -1028,7 +1028,7 @@
             "last_commit": "2026-07-02T08:49:12Z",
             "owner": "IndEcol",
             "repo": "Dashboard",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -1040,7 +1040,7 @@
             "archived": false,
             "id": 1188844769,
             "language": "Python",
-            "last_commit": "2026-08-16T11:35:49Z",
+            "last_commit": "2026-08-21T15:53:20Z",
             "owner": "GeiserX",
             "repo": "awesome-europe",
             "stars": 125
@@ -1111,7 +1111,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:52:58.847Z",
+    "last_updated": "2026-08-22T07:39:58.489Z",
     "original_repository": "open-risk/awesome-sustainable-finance",
     "original_repository_id": 492807960,
     "original_repository_sha": "d1ff5ebac7a1b051eb8071590f24c8b279c7dd8d",
