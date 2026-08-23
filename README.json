@@ -605,7 +605,7 @@
                 "archived": false,
                 "id": 40322111,
                 "language": "Julia",
-                "last_commit": "2026-08-11T02:36:31Z",
+                "last_commit": "2026-08-23T06:36:01Z",
                 "owner": "mimiframework",
                 "repo": "Mimi.jl",
                 "stars": 72
@@ -806,7 +806,7 @@
                         "last_commit": "2026-08-18T14:22:21Z",
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 16873
+                        "stars": 16889
                       }
                     },
                     {
@@ -859,7 +859,7 @@
                 "last_commit": "2026-07-27T08:33:37Z",
                 "owner": "OMS-NetZero",
                 "repo": "FAIR",
-                "stars": 158
+                "stars": 159
               }
             },
             {
@@ -931,7 +931,7 @@
                     "last_commit": "2026-08-21T12:32:10Z",
                     "owner": "electricitymaps",
                     "repo": "electricitymaps-contrib",
-                    "stars": 4023
+                    "stars": 4024
                   }
                 }
               ],
@@ -942,7 +942,7 @@
                 "last_commit": "2026-08-21T12:32:10Z",
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
-                "stars": 4023
+                "stars": 4024
               }
             },
             {
@@ -1111,7 +1111,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:39:58.489Z",
+    "last_updated": "2026-08-23T07:43:26.461Z",
     "original_repository": "open-risk/awesome-sustainable-finance",
     "original_repository_id": 492807960,
     "original_repository_sha": "d1ff5ebac7a1b051eb8071590f24c8b279c7dd8d",
