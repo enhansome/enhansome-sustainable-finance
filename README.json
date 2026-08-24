@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 350060880,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T12:17:27Z",
+                "last_commit": "2026-08-24T14:34:33Z",
                 "owner": "open-risk",
                 "repo": "equinox",
                 "stars": 52
@@ -231,7 +231,7 @@
                 "archived": false,
                 "id": 639568639,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T06:38:36Z",
+                "last_commit": "2026-08-24T14:32:45Z",
                 "owner": "Open-Earth-Foundation",
                 "repo": "CityCatalyst",
                 "stars": 45
@@ -456,6 +456,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "riskmapjnr",
+              "description": "The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 413038078,
+                "language": "Python",
+                "last_commit": "2024-07-12T23:38:02Z",
+                "owner": "ghislainv",
+                "repo": "riskmapjnr",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Biodiversity Finance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "brightway-lca",
               "description": "Brightway2 is a framework for advanced life cycle assessment calculations.",
               "children": [],
@@ -523,7 +545,7 @@
                 "archived": false,
                 "id": 389780463,
                 "language": "Python",
-                "last_commit": "2026-08-20T22:44:34Z",
+                "last_commit": "2026-08-24T14:18:45Z",
                 "owner": "NatLabRockies",
                 "repo": "celavi",
                 "stars": 17
@@ -744,6 +766,28 @@
                   "children": [
                     {
                       "node_type": "item",
+                      "title": "Fineract",
+                      "description": "Apache Fineract: A Platform for Microfinance.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 48418599,
+                        "language": "Java",
+                        "last_commit": "2026-08-24T12:51:45Z",
+                        "owner": "apache",
+                        "repo": "fineract",
+                        "stars": 2401
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Mifos"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
                       "title": "rafiki",
                       "description": "An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.",
                       "children": [],
@@ -806,7 +850,7 @@
                         "last_commit": "2026-08-18T14:22:21Z",
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 16896
+                        "stars": 16898
                       }
                     },
                     {
@@ -821,7 +865,7 @@
                         "last_commit": "2026-01-20T16:30:56Z",
                         "owner": "MicroPyramid",
                         "repo": "micro-finance",
-                        "stars": 92
+                        "stars": 93
                       }
                     }
                   ],
@@ -833,6 +877,28 @@
               "description": null,
               "node_type": "group",
               "title": "Financial Inclusion"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SVInsight",
+                  "description": "A python package for calculating an exploratory social vulnerability index (SVI).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 784922231,
+                    "language": "Python",
+                    "last_commit": "2024-11-26T21:03:45Z",
+                    "owner": "mdp0023",
+                    "repo": "SVInsight",
+                    "stars": 7
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Social Vulnerability"
             }
           ],
           "description": "MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. through financial inclusion and literacy tools and infrastructure",
@@ -871,7 +937,7 @@
                 "archived": false,
                 "id": 299948593,
                 "language": "Python",
-                "last_commit": "2026-08-21T09:02:51Z",
+                "last_commit": "2026-08-24T09:32:17Z",
                 "owner": "openghg",
                 "repo": "openghg",
                 "stars": 46
@@ -928,7 +994,7 @@
                     "archived": false,
                     "id": 59370571,
                     "language": "Python",
-                    "last_commit": "2026-08-24T07:46:35Z",
+                    "last_commit": "2026-08-24T09:24:22Z",
                     "owner": "electricitymaps",
                     "repo": "electricitymaps-contrib",
                     "stars": 4024
@@ -939,7 +1005,7 @@
                 "archived": false,
                 "id": 59370571,
                 "language": "Python",
-                "last_commit": "2026-08-24T07:46:35Z",
+                "last_commit": "2026-08-24T09:24:22Z",
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
                 "stars": 4024
@@ -954,7 +1020,7 @@
                 "archived": false,
                 "id": 139456829,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:02:26Z",
+                "last_commit": "2026-08-24T13:24:14Z",
                 "owner": "FZJ-IEK3-VSA",
                 "repo": "FINE",
                 "stars": 100
@@ -979,6 +1045,28 @@
           "description": null,
           "node_type": "group",
           "title": "Energy System"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SDG Data Repository (UK)",
+              "description": "Data repository for SDGs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133052460,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:59:19Z",
+                "owner": "ONSdigital",
+                "repo": "sdg-data",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Sustainability Data"
         }
       ],
       "title": "Open Data"
@@ -1111,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:02:15.596Z",
+    "last_updated": "2026-08-24T14:44:12.821Z",
     "original_repository": "open-risk/awesome-sustainable-finance",
     "original_repository_id": 492807960,
     "original_repository_sha": "d1ff5ebac7a1b051eb8071590f24c8b279c7dd8d",
