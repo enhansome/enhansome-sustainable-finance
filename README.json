@@ -850,7 +850,7 @@
                         "last_commit": "2026-08-18T14:22:21Z",
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 16900
+                        "stars": 16901
                       }
                     },
                     {
@@ -937,7 +937,7 @@
                 "archived": false,
                 "id": 299948593,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:35:44Z",
+                "last_commit": "2026-08-25T07:23:51Z",
                 "owner": "openghg",
                 "repo": "openghg",
                 "stars": 46
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:38:50.928Z",
+    "last_updated": "2026-08-25T07:53:52.401Z",
     "original_repository": "open-risk/awesome-sustainable-finance",
     "original_repository_id": 492807960,
     "original_repository_sha": "d1ff5ebac7a1b051eb8071590f24c8b279c7dd8d",

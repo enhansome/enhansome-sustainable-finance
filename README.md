@@ -135,7 +135,7 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Other
 
-* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 16,900 | 🐛 125 | 🌐 Zig | 📅 2026-08-18 - The distributed financial transactions database designed for mission critical safety and performance.
+* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 16,901 | 🐛 125 | 🌐 Zig | 📅 2026-08-18 - The distributed financial transactions database designed for mission critical safety and performance.
 * [micro-finance](https://github.com/MicroPyramid/micro-finance) ⭐ 93 | 🐛 2 | 🌐 Python | 📅 2026-01-20 - Free Micro Finance Software.
 * [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
 
@@ -154,7 +154,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 ## GHG Emissions
 
 * [FaIR](https://github.com/OMS-NetZero/FAIR) ⭐ 159 | 🐛 32 | 🌐 Python | 📅 2026-07-27 - FaIR (the Finite-amplitude Impulse-Response) climate model is a simple climate model, or emulator, useful for producing global mean temperature projections from a wide range of emissions or prescribed forcing scenarios
-* [openGHG](https://github.com/openghg/openghg) ⭐ 46 | 🐛 254 | 🌐 Python | 📅 2026-08-25 - A cloud platform for greenhouse gas (GHG) data analysis and collaboration.
+* [openGHG](https://github.com/openghg/openghg) ⭐ 46 | 🐛 255 | 🌐 Python | 📅 2026-08-25 - A cloud platform for greenhouse gas (GHG) data analysis and collaboration.
 * [climate\_categories](https://github.com/pik-primap/climate_categories) ⭐ 17 | 🐛 8 | 🌐 Python | 📅 2026-08-24 - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package.
 * [GHG Data](https://github.com/sphericalpm/ghgdata) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2017-10-31 - Greenhouse gas emissions data packaged for easy exploration and charting
 * [EDGAR](https://edgar.jrc.ec.europa.eu/emissions_data_and_maps) - European Commission Emissions Database for Global Atmospheric Research
