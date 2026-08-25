@@ -231,7 +231,7 @@
                 "archived": false,
                 "id": 639568639,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:32:45Z",
+                "last_commit": "2026-08-24T22:21:14Z",
                 "owner": "Open-Earth-Foundation",
                 "repo": "CityCatalyst",
                 "stars": 45
@@ -515,7 +515,7 @@
                 "archived": false,
                 "id": 248347431,
                 "language": "HTML",
-                "last_commit": "2026-08-18T20:45:57Z",
+                "last_commit": "2026-08-24T17:35:31Z",
                 "owner": "NatLabRockies",
                 "repo": "PV_ICE",
                 "stars": 44
@@ -627,7 +627,7 @@
                 "archived": false,
                 "id": 40322111,
                 "language": "Julia",
-                "last_commit": "2026-08-23T18:08:28Z",
+                "last_commit": "2026-08-25T02:36:40Z",
                 "owner": "mimiframework",
                 "repo": "Mimi.jl",
                 "stars": 72
@@ -776,7 +776,7 @@
                         "last_commit": "2026-08-24T12:51:45Z",
                         "owner": "apache",
                         "repo": "fineract",
-                        "stars": 2401
+                        "stars": 2402
                       }
                     }
                   ],
@@ -825,7 +825,7 @@
                         "archived": false,
                         "id": 671063129,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-24T00:11:45Z",
+                        "last_commit": "2026-08-25T00:11:10Z",
                         "owner": "interledger",
                         "repo": "web-monetization-extension",
                         "stars": 150
@@ -850,7 +850,7 @@
                         "last_commit": "2026-08-18T14:22:21Z",
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 16898
+                        "stars": 16900
                       }
                     },
                     {
@@ -937,7 +937,7 @@
                 "archived": false,
                 "id": 299948593,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:32:17Z",
+                "last_commit": "2026-08-25T06:35:44Z",
                 "owner": "openghg",
                 "repo": "openghg",
                 "stars": 46
@@ -952,7 +952,7 @@
                 "archived": false,
                 "id": 331047619,
                 "language": "Python",
-                "last_commit": "2026-08-17T19:30:10Z",
+                "last_commit": "2026-08-24T19:08:31Z",
                 "owner": "primap-community",
                 "repo": "climate_categories",
                 "stars": 17
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:44:12.821Z",
+    "last_updated": "2026-08-25T06:38:50.928Z",
     "original_repository": "open-risk/awesome-sustainable-finance",
     "original_repository_id": 492807960,
     "original_repository_sha": "d1ff5ebac7a1b051eb8071590f24c8b279c7dd8d",
