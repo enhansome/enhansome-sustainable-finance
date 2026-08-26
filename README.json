@@ -156,7 +156,7 @@
                 "archived": false,
                 "id": 12462033,
                 "language": "Java",
-                "last_commit": "2026-08-20T10:42:10Z",
+                "last_commit": "2026-08-25T14:52:24Z",
                 "owner": "GreenDelta",
                 "repo": "olca-app",
                 "stars": 263
@@ -231,7 +231,7 @@
                 "archived": false,
                 "id": 639568639,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:21:14Z",
+                "last_commit": "2026-08-26T07:54:31Z",
                 "owner": "Open-Earth-Foundation",
                 "repo": "CityCatalyst",
                 "stars": 45
@@ -687,7 +687,7 @@
                 "archived": false,
                 "id": 375724610,
                 "language": "Python",
-                "last_commit": "2026-08-20T05:14:42Z",
+                "last_commit": "2026-08-25T08:55:22Z",
                 "owner": "IAMconsortium",
                 "repo": "nomenclature",
                 "stars": 24
@@ -773,7 +773,7 @@
                         "archived": false,
                         "id": 48418599,
                         "language": "Java",
-                        "last_commit": "2026-08-24T12:51:45Z",
+                        "last_commit": "2026-08-25T21:32:14Z",
                         "owner": "apache",
                         "repo": "fineract",
                         "stars": 2402
@@ -813,7 +813,7 @@
                         "last_commit": "2023-06-16T05:31:55Z",
                         "owner": "interledger",
                         "repo": "interledger-rs",
-                        "stars": 204
+                        "stars": 205
                       }
                     },
                     {
@@ -825,7 +825,7 @@
                         "archived": false,
                         "id": 671063129,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-25T00:11:10Z",
+                        "last_commit": "2026-08-26T00:12:16Z",
                         "owner": "interledger",
                         "repo": "web-monetization-extension",
                         "stars": 150
@@ -847,10 +847,10 @@
                         "archived": false,
                         "id": 254418044,
                         "language": "Zig",
-                        "last_commit": "2026-08-18T14:22:21Z",
+                        "last_commit": "2026-08-25T09:21:57Z",
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 16901
+                        "stars": 16906
                       }
                     },
                     {
@@ -937,7 +937,7 @@
                 "archived": false,
                 "id": 299948593,
                 "language": "Python",
-                "last_commit": "2026-08-25T07:23:51Z",
+                "last_commit": "2026-08-25T14:10:10Z",
                 "owner": "openghg",
                 "repo": "openghg",
                 "stars": 46
@@ -994,7 +994,7 @@
                     "archived": false,
                     "id": 59370571,
                     "language": "Python",
-                    "last_commit": "2026-08-24T09:24:22Z",
+                    "last_commit": "2026-08-26T06:44:00Z",
                     "owner": "electricitymaps",
                     "repo": "electricitymaps-contrib",
                     "stars": 4024
@@ -1005,7 +1005,7 @@
                 "archived": false,
                 "id": 59370571,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:24:22Z",
+                "last_commit": "2026-08-26T06:44:00Z",
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
                 "stars": 4024
@@ -1020,7 +1020,7 @@
                 "archived": false,
                 "id": 139456829,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:24:14Z",
+                "last_commit": "2026-08-25T13:14:11Z",
                 "owner": "FZJ-IEK3-VSA",
                 "repo": "FINE",
                 "stars": 100
@@ -1086,7 +1086,7 @@
             "last_commit": "2026-08-23T17:34:13Z",
             "owner": "protontypes",
             "repo": "open-sustainable-technology",
-            "stars": 2543
+            "stars": 2544
           }
         },
         {
@@ -1101,7 +1101,7 @@
             "last_commit": "2026-08-21T14:43:50Z",
             "owner": "moov-io",
             "repo": "awesome-fintech",
-            "stars": 365
+            "stars": 366
           }
         },
         {
@@ -1128,7 +1128,7 @@
             "archived": false,
             "id": 1188844769,
             "language": "Python",
-            "last_commit": "2026-08-21T15:53:20Z",
+            "last_commit": "2026-08-25T15:08:38Z",
             "owner": "GeiserX",
             "repo": "awesome-europe",
             "stars": 125
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:53:52.401Z",
+    "last_updated": "2026-08-26T07:55:15.658Z",
     "original_repository": "open-risk/awesome-sustainable-finance",
     "original_repository_id": 492807960,
     "original_repository_sha": "d1ff5ebac7a1b051eb8071590f24c8b279c7dd8d",
