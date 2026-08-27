@@ -231,7 +231,7 @@
                 "archived": false,
                 "id": 639568639,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:34:57Z",
+                "last_commit": "2026-08-27T16:46:07Z",
                 "owner": "Open-Earth-Foundation",
                 "repo": "CityCatalyst",
                 "stars": 45
@@ -597,7 +597,7 @@
                 "archived": false,
                 "id": 113015968,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-20T08:23:31Z",
+                "last_commit": "2026-08-27T13:46:30Z",
                 "owner": "iiasa",
                 "repo": "message_ix",
                 "stars": 150
@@ -773,7 +773,7 @@
                         "archived": false,
                         "id": 48418599,
                         "language": "Java",
-                        "last_commit": "2026-08-26T16:37:51Z",
+                        "last_commit": "2026-08-27T12:25:22Z",
                         "owner": "apache",
                         "repo": "fineract",
                         "stars": 2406
@@ -850,7 +850,7 @@
                         "last_commit": "2026-08-25T09:21:57Z",
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 16906
+                        "stars": 16909
                       }
                     },
                     {
@@ -922,7 +922,7 @@
                 "archived": false,
                 "id": 95414691,
                 "language": "Python",
-                "last_commit": "2026-07-27T08:33:37Z",
+                "last_commit": "2026-08-27T12:31:33Z",
                 "owner": "OMS-NetZero",
                 "repo": "FAIR",
                 "stars": 159
@@ -994,7 +994,7 @@
                     "archived": false,
                     "id": 59370571,
                     "language": "Python",
-                    "last_commit": "2026-08-26T20:41:29Z",
+                    "last_commit": "2026-08-27T14:19:34Z",
                     "owner": "electricitymaps",
                     "repo": "electricitymaps-contrib",
                     "stars": 4025
@@ -1005,7 +1005,7 @@
                 "archived": false,
                 "id": 59370571,
                 "language": "Python",
-                "last_commit": "2026-08-26T20:41:29Z",
+                "last_commit": "2026-08-27T14:19:34Z",
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
                 "stars": 4025
@@ -1098,7 +1098,7 @@
             "archived": false,
             "id": 385678818,
             "language": null,
-            "last_commit": "2026-08-26T14:18:48Z",
+            "last_commit": "2026-08-27T15:08:04Z",
             "owner": "moov-io",
             "repo": "awesome-fintech",
             "stars": 366
@@ -1199,7 +1199,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:01.359Z",
+    "last_updated": "2026-08-27T18:15:12.469Z",
     "original_repository_info": {
       "archived": false,
       "id": 492807960,
