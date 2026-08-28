@@ -18,7 +18,8 @@
                 "owner": "hyperledger-labs",
                 "repo": "blockchain-carbon-accounting",
                 "stars": 220
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ScienceBasedTargets",
                 "repo": "SBTi-finance-tool",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "open-risk",
                 "repo": "equinox",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "opentaps",
                 "repo": "open-climate-investing",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "RMI-PACTA",
                 "repo": "PACTA_analysis",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "ONEcampaign",
                 "repo": "climate-finance-package",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "2DegreesInvesting",
                 "repo": "r2dii.analysis",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             }
           ],
           "description": "Frameworks and tools that are directly assisting the analysis of financial operations (e.g., transactions, securities, portfolios of contracts etc.) from a climate finance perspective",
@@ -129,8 +136,9 @@
                 "last_commit": "2026-07-19T18:33:40Z",
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 1963
-              }
+                "stars": 1964
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "cloud-carbon-footprint",
                 "repo": "cloud-carbon-footprint",
                 "stars": 1050
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "GreenDelta",
                 "repo": "olca-app",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "IndEcol",
                 "repo": "pymrio",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "Open-Earth-Foundation",
                 "repo": "OpenClimate",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "it-is-me-mario",
                 "repo": "MARIO",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "MaximeAgez",
                 "repo": "pylcaio",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -231,11 +245,12 @@
                 "archived": false,
                 "id": 639568639,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:46:07Z",
+                "last_commit": "2026-08-28T13:01:42Z",
                 "owner": "Open-Earth-Foundation",
                 "repo": "CityCatalyst",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "USEPA",
                 "repo": "useeior",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "beyondepic",
                 "repo": "pyspa",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "aws-solutions-library-samples",
                 "repo": "guidance-for-aws-sustainability-insights-framework",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "CIRAIG",
                 "repo": "OpenIO-Canada",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "CIRAIG",
                 "repo": "OpenIO-Canada",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "majeau-bettez",
                 "repo": "ecospold2matrix",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "WWakker",
                 "repo": "iotables",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "USEPA",
                 "repo": "IO-Model-Builder",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "floriandierickx",
                 "repo": "emission-budgets",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "Kajwan",
                 "repo": "EXIOBASE-energy-accounts",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "open-risk",
                 "repo": "leontief",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "peterberr",
                 "repo": "cie-useeio-extensions",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "sumn2u",
                 "repo": "node-carbon",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "martindaniel4",
                 "repo": "ghg_country_sector",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             }
           ],
           "description": "Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly supporting climate finance through input-output / life-cycle analysis of economic systems",
@@ -467,7 +496,8 @@
                 "owner": "ghislainv",
                 "repo": "riskmapjnr",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             }
           ],
           "description": null,
@@ -489,7 +519,8 @@
                 "owner": "brightway-lca",
                 "repo": "brightway2",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -504,7 +535,8 @@
                 "owner": "IndEcol",
                 "repo": "ODYM",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -519,7 +551,8 @@
                 "owner": "NatLabRockies",
                 "repo": "PV_ICE",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -534,7 +567,8 @@
                 "owner": "supplychainstudies",
                 "repo": "OpenSupplyChains",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -549,7 +583,8 @@
                 "owner": "NatLabRockies",
                 "repo": "celavi",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             }
           ],
           "description": "Models and Frameworks that indirectly support sustainable finance by helping track material flows and advancing the circular economy.",
@@ -571,7 +606,8 @@
                 "owner": "IAMconsortium",
                 "repo": "pyam",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -582,11 +618,12 @@
                 "archived": false,
                 "id": 157362644,
                 "language": "Python",
-                "last_commit": "2026-08-26T19:57:24Z",
+                "last_commit": "2026-08-28T18:31:33Z",
                 "owner": "polca",
                 "repo": "premise",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -601,7 +638,8 @@
                 "owner": "iiasa",
                 "repo": "message_ix",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -616,7 +654,8 @@
                 "owner": "worlddynamics",
                 "repo": "WorldDynamics.jl",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -631,7 +670,8 @@
                 "owner": "mimiframework",
                 "repo": "Mimi.jl",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -645,8 +685,9 @@
                 "last_commit": "2025-06-06T10:17:15Z",
                 "owner": "witch-team",
                 "repo": "witchmodel",
-                "stars": 32
-              }
+                "stars": 33
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -660,8 +701,9 @@
                 "last_commit": "2014-12-18T19:42:26Z",
                 "owner": "psztorc",
                 "repo": "DICE",
-                "stars": 31
-              }
+                "stars": 32
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -676,7 +718,8 @@
                 "owner": "Shivamshaiv",
                 "repo": "Python-DICE",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -691,7 +734,8 @@
                 "owner": "IAMconsortium",
                 "repo": "nomenclature",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -706,7 +750,8 @@
                 "owner": "openmodels",
                 "repo": "META-2021",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -721,7 +766,8 @@
                 "owner": "IAMconsortium",
                 "repo": "iamc",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -736,7 +782,8 @@
                 "owner": "iiasa",
                 "repo": "aneris",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -751,7 +798,8 @@
                 "owner": "swillner",
                 "repo": "dicepp",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             }
           ],
           "description": "Integrated economic models (for macroeconomic scenarios)",
@@ -773,11 +821,12 @@
                         "archived": false,
                         "id": 48418599,
                         "language": "Java",
-                        "last_commit": "2026-08-27T12:25:22Z",
+                        "last_commit": "2026-08-28T15:26:34Z",
                         "owner": "apache",
                         "repo": "fineract",
-                        "stars": 2406
-                      }
+                        "stars": 2411
+                      },
+                      "first_seen": "2026-08-28T19:23:59.512Z"
                     }
                   ],
                   "description": null,
@@ -799,7 +848,8 @@
                         "owner": "interledger",
                         "repo": "rafiki",
                         "stars": 354
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:23:59.512Z"
                     },
                     {
                       "node_type": "item",
@@ -814,7 +864,8 @@
                         "owner": "interledger",
                         "repo": "interledger-rs",
                         "stars": 205
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:23:59.512Z"
                     },
                     {
                       "node_type": "item",
@@ -825,11 +876,12 @@
                         "archived": false,
                         "id": 671063129,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-27T01:18:34Z",
+                        "last_commit": "2026-08-28T02:42:04Z",
                         "owner": "interledger",
                         "repo": "web-monetization-extension",
                         "stars": 150
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:23:59.512Z"
                     }
                   ],
                   "description": null,
@@ -850,8 +902,9 @@
                         "last_commit": "2026-08-25T09:21:57Z",
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 16909
-                      }
+                        "stars": 16916
+                      },
+                      "first_seen": "2026-08-28T19:23:59.512Z"
                     },
                     {
                       "node_type": "item",
@@ -866,7 +919,8 @@
                         "owner": "MicroPyramid",
                         "repo": "micro-finance",
                         "stars": 93
-                      }
+                      },
+                      "first_seen": "2026-08-28T19:23:59.512Z"
                     }
                   ],
                   "description": null,
@@ -893,7 +947,8 @@
                     "owner": "mdp0023",
                     "repo": "SVInsight",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:23:59.512Z"
                 }
               ],
               "description": null,
@@ -926,7 +981,8 @@
                 "owner": "OMS-NetZero",
                 "repo": "FAIR",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -937,11 +993,12 @@
                 "archived": false,
                 "id": 299948593,
                 "language": "Python",
-                "last_commit": "2026-08-25T14:10:10Z",
+                "last_commit": "2026-08-28T15:20:54Z",
                 "owner": "openghg",
                 "repo": "openghg",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -956,7 +1013,8 @@
                 "owner": "primap-community",
                 "repo": "climate_categories",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -971,7 +1029,8 @@
                 "owner": "sphericalpm",
                 "repo": "ghgdata",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             }
           ],
           "description": null,
@@ -994,22 +1053,24 @@
                     "archived": false,
                     "id": 59370571,
                     "language": "Python",
-                    "last_commit": "2026-08-27T14:19:34Z",
+                    "last_commit": "2026-08-28T15:20:33Z",
                     "owner": "electricitymaps",
                     "repo": "electricitymaps-contrib",
-                    "stars": 4025
-                  }
+                    "stars": 4027
+                  },
+                  "first_seen": "2026-08-28T19:23:59.512Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
                 "id": 59370571,
                 "language": "Python",
-                "last_commit": "2026-08-27T14:19:34Z",
+                "last_commit": "2026-08-28T15:20:33Z",
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
-                "stars": 4025
-              }
+                "stars": 4027
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -1020,11 +1081,12 @@
                 "archived": false,
                 "id": 139456829,
                 "language": "Python",
-                "last_commit": "2026-08-25T13:14:11Z",
+                "last_commit": "2026-08-28T15:29:25Z",
                 "owner": "FZJ-IEK3-VSA",
                 "repo": "FINE",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             },
             {
               "node_type": "item",
@@ -1039,7 +1101,8 @@
                 "owner": "jdechalendar",
                 "repo": "gridemissions",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             }
           ],
           "description": null,
@@ -1061,7 +1124,8 @@
                 "owner": "ONSdigital",
                 "repo": "sdg-data",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
             }
           ],
           "description": null,
@@ -1083,11 +1147,12 @@
             "archived": false,
             "id": 296566912,
             "language": null,
-            "last_commit": "2026-08-23T17:34:13Z",
+            "last_commit": "2026-08-28T07:26:23Z",
             "owner": "protontypes",
             "repo": "open-sustainable-technology",
             "stars": 2545
-          }
+          },
+          "first_seen": "2026-08-28T19:23:59.512Z"
         },
         {
           "node_type": "item",
@@ -1101,8 +1166,9 @@
             "last_commit": "2026-08-27T15:08:04Z",
             "owner": "moov-io",
             "repo": "awesome-fintech",
-            "stars": 366
-          }
+            "stars": 367
+          },
+          "first_seen": "2026-08-28T19:23:59.512Z"
         },
         {
           "node_type": "item",
@@ -1117,7 +1183,8 @@
             "owner": "IndEcol",
             "repo": "Dashboard",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T19:23:59.512Z"
         },
         {
           "node_type": "item",
@@ -1128,11 +1195,12 @@
             "archived": false,
             "id": 1188844769,
             "language": "Python",
-            "last_commit": "2026-08-25T15:08:38Z",
+            "last_commit": "2026-08-28T08:40:33Z",
             "owner": "GeiserX",
             "repo": "awesome-europe",
-            "stars": 125
-          }
+            "stars": 126
+          },
+          "first_seen": "2026-08-28T19:23:59.512Z"
         },
         {
           "node_type": "item",
@@ -1147,7 +1215,8 @@
             "owner": "Open-Earth-Foundation",
             "repo": "OpenClimate",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T19:23:59.512Z"
         },
         {
           "node_type": "item",
@@ -1162,7 +1231,8 @@
             "owner": "atrisovic",
             "repo": "weather-panel.github.io",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T19:23:59.512Z"
         },
         {
           "node_type": "item",
@@ -1176,8 +1246,9 @@
             "last_commit": "2026-07-23T14:44:09Z",
             "owner": "brian-rose",
             "repo": "climlab",
-            "stars": 22
-          }
+            "stars": 23
+          },
+          "first_seen": "2026-08-28T19:23:59.512Z"
         },
         {
           "node_type": "item",
@@ -1192,14 +1263,15 @@
             "owner": "iiasa",
             "repo": "ntnu_iam_2022",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T19:23:59.512Z"
         }
       ],
       "title": "Broader and/or Related Domains"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:15:12.469Z",
+    "last_updated": "2026-08-28T19:23:59.512Z",
     "original_repository_info": {
       "archived": false,
       "id": 492807960,
