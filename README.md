@@ -59,7 +59,7 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 
 Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly supporting climate finance through input-output / life-cycle analysis of economic systems
 
-* [Scafandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,964 | 🐛 93 | 🌐 Rust | 📅 2026-07-19 - Energy consumption metrology agent.
+* [Scafandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,965 | 🐛 93 | 🌐 Rust | 📅 2026-07-19 - Energy consumption metrology agent.
 * [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) ⭐ 1,050 | 🐛 205 | 🌐 TypeScript | 📅 2026-04-23 - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
 * [openLCA](https://github.com/GreenDelta/olca-app) ⭐ 263 | 🐛 41 | 🌐 Java | 📅 2026-08-26 - Source code of openLCA
 * [pymrio](https://github.com/konstantinstadler/pymrio) ⭐ 221 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - Multi-Regional Input-Output Analysis in Python.
@@ -124,7 +124,7 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Mifos
 
-* [Fineract](https://github.com/apache/fineract/) ⭐ 2,413 | 🐛 108 | 🌐 Java | 📅 2026-08-28 - Apache Fineract: A Platform for Microfinance.
+* [Fineract](https://github.com/apache/fineract/) ⭐ 2,413 | 🐛 109 | 🌐 Java | 📅 2026-08-28 - Apache Fineract: A Platform for Microfinance.
 * [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
 
 #### Interledger
@@ -135,7 +135,7 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Other
 
-* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 16,924 | 🐛 107 | 🌐 Zig | 📅 2026-08-25 - The distributed financial transactions database designed for mission critical safety and performance.
+* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 16,925 | 🐛 107 | 🌐 Zig | 📅 2026-08-25 - The distributed financial transactions database designed for mission critical safety and performance.
 * [micro-finance](https://github.com/MicroPyramid/micro-finance) ⭐ 93 | 🐛 2 | 🌐 Python | 📅 2026-01-20 - Free Micro Finance Software.
 * [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
 
