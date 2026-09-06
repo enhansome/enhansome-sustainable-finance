@@ -61,7 +61,7 @@ Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly support
 
 * [Scafandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,968 | 🐛 93 | 🌐 Rust | 📅 2026-07-19 - Energy consumption metrology agent.
 * [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) ⭐ 1,050 | 🐛 206 | 🌐 TypeScript | 📅 2026-04-23 - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
-* [openLCA](https://github.com/GreenDelta/olca-app) ⭐ 263 | 🐛 42 | 🌐 Java | 📅 2026-09-02 - Source code of openLCA
+* [openLCA](https://github.com/GreenDelta/olca-app) ⭐ 263 | 🐛 42 | 🌐 Java | 📅 2026-09-06 - Source code of openLCA
 * [pymrio](https://github.com/konstantinstadler/pymrio) ⭐ 221 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - Multi-Regional Input-Output Analysis in Python.
 * [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) ⭐ 64 | 🐛 58 | 🌐 TypeScript | 📅 2025-05-15 - A data utility for tracking climate action.
 * [MARIO](https://github.com/it-is-me-mario/MARIO) ⭐ 52 | 🐛 22 | 🌐 Python | 📅 2026-07-30 - Multifunctional Analysis of Regions through Input-Output
@@ -103,7 +103,7 @@ Models and Frameworks that indirectly support sustainable finance by helping tra
 Integrated economic models (for macroeconomic scenarios)
 
 * [pyam](https://github.com/IAMconsortium/pyam) ⭐ 289 | 🐛 105 | 🌐 Python | 📅 2026-09-01 - Analysis & visualization of integrated-assessment and macro-energy scenarios.
-* [premise](https://github.com/polca/premise) ⭐ 185 | 🐛 25 | 🌐 Python | 📅 2026-09-04 - PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM).
+* [premise](https://github.com/polca/premise) ⭐ 185 | 🐛 25 | 🌐 Python | 📅 2026-09-06 - PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM).
 * [MessageIX](https://github.com/iiasa/message_ix) ⭐ 150 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2026-08-31 - MESSAGEix is a versatile, dynamic, model framework for energy-engineering-economy-environment (E4) systems research.
 * [WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl) ⭐ 75 | 🐛 24 | 🌐 Julia | 📅 2024-05-25 - An open-source framework written in Julia for global integrated assessment models.
 * [mimi](https://github.com/mimiframework/Mimi.jl) ⭐ 72 | 🐛 66 | 🌐 Julia | 📅 2026-09-03 - Mimi is a Julia package that provides a component model for integrated assessment models.
@@ -124,7 +124,7 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Mifos
 
-* [Fineract](https://github.com/apache/fineract/) ⭐ 2,429 | 🐛 111 | 🌐 Java | 📅 2026-09-04 - Apache Fineract: A Platform for Microfinance.
+* [Fineract](https://github.com/apache/fineract/) ⭐ 2,428 | 🐛 112 | 🌐 Java | 📅 2026-09-04 - Apache Fineract: A Platform for Microfinance.
 * [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
 
 #### Interledger
@@ -135,7 +135,7 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Other
 
-* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 16,958 | 🐛 103 | 🌐 Zig | 📅 2026-08-31 - The distributed financial transactions database designed for mission critical safety and performance.
+* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 16,962 | 🐛 103 | 🌐 Zig | 📅 2026-08-31 - The distributed financial transactions database designed for mission critical safety and performance.
 * [micro-finance](https://github.com/MicroPyramid/micro-finance) ⭐ 93 | 🐛 2 | 🌐 Python | 📅 2026-01-20 - Free Micro Finance Software.
 * [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
 
@@ -191,4 +191,4 @@ Other awesome lists / resources that are more indirectly relevant for sustainabl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

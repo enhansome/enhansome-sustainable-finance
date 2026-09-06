@@ -287,7 +287,7 @@
                 "id": 12462033,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-02T22:36:49Z",
+                "last_commit": "2026-09-06T09:37:33Z",
                 "open_issues": 42,
                 "owner": "GreenDelta",
                 "repo": "olca-app",
@@ -988,7 +988,7 @@
                 "id": 157362644,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-04T14:12:40Z",
+                "last_commit": "2026-09-06T10:13:40Z",
                 "open_issues": 25,
                 "owner": "polca",
                 "repo": "premise",
@@ -1296,10 +1296,10 @@
                         "language": "Java",
                         "license": "Apache-2.0",
                         "last_commit": "2026-09-04T15:45:43Z",
-                        "open_issues": 111,
+                        "open_issues": 112,
                         "owner": "apache",
                         "repo": "fineract",
-                        "stars": 2429,
+                        "stars": 2428,
                         "topics": [
                           "apache",
                           "banking",
@@ -1439,7 +1439,7 @@
                         "open_issues": 103,
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 16958,
+                        "stars": 16962,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:23:59.512Z"
@@ -2035,7 +2035,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:14:41.779Z",
+    "last_updated": "2026-09-06T11:37:28.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of sustainable finance resources (software, data and more)",
