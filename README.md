@@ -59,7 +59,7 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 
 Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly supporting climate finance through input-output / life-cycle analysis of economic systems
 
-* [Scafandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,970 | 🐛 97 | 🌐 Rust | 📅 2026-07-19 - Energy consumption metrology agent.
+* [Scafandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,971 | 🐛 97 | 🌐 Rust | 📅 2026-07-19 - Energy consumption metrology agent.
 * [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) ⭐ 1,050 | 🐛 206 | 🌐 TypeScript | 📅 2026-04-23 - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
 * [openLCA](https://github.com/GreenDelta/olca-app) ⭐ 264 | 🐛 41 | 🌐 Java | 📅 2026-09-11 - Source code of openLCA
 * [pymrio](https://github.com/konstantinstadler/pymrio) ⭐ 223 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - Multi-Regional Input-Output Analysis in Python.
@@ -124,18 +124,18 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Mifos
 
-* [Fineract](https://github.com/apache/fineract/) ⭐ 2,470 | 🐛 111 | 🌐 Java | 📅 2026-09-11 - Apache Fineract: A Platform for Microfinance.
+* [Fineract](https://github.com/apache/fineract/) ⭐ 2,472 | 🐛 112 | 🌐 Java | 📅 2026-09-11 - Apache Fineract: A Platform for Microfinance.
 * [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
 
 #### Interledger
 
-* [rafiki](https://github.com/interledger/rafiki) ⭐ 357 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-11 - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
+* [rafiki](https://github.com/interledger/rafiki) ⭐ 357 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-12 - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
 * [interledger-rs](https://github.com/interledger/interledger-rs) ⭐ 205 | 🐛 88 | 🌐 Rust | 📅 2023-06-16 - An easy-to-use, high-performance Interledger implementation written in Rust
 * [web-monetization](https://github.com/interledger/web-monetization-extension) ⭐ 152 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-12 - An open-source browser extension that enables Web Monetization.
 
 #### Other
 
-* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,008 | 🐛 107 | 🌐 Zig | 📅 2026-08-31 - The distributed financial transactions database designed for mission critical safety and performance.
+* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,011 | 🐛 107 | 🌐 Zig | 📅 2026-08-31 - The distributed financial transactions database designed for mission critical safety and performance.
 * [micro-finance](https://github.com/MicroPyramid/micro-finance) ⭐ 93 | 🐛 2 | 🌐 Python | 📅 2026-01-20 - Free Micro Finance Software.
 * [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
 
@@ -181,7 +181,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 Other awesome lists / resources that are more indirectly relevant for sustainable finance
 
 * [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) ⭐ 2,548 | 🐛 78 | 📅 2026-09-09 - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources
-* [Awesome Fintech](https://github.com/moov-io/awesome-fintech) ⭐ 370 | 🐛 2 | 📅 2026-09-09 - A curated collection of open source fintech libraries and resources.
+* [Awesome Fintech](https://github.com/moov-io/awesome-fintech) ⭐ 371 | 🐛 2 | 📅 2026-09-09 - A curated collection of open source fintech libraries and resources.
 * [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) ⭐ 161 | 🐛 0 | 📅 2026-07-02 - A collection of open source projects relevant for industrial ecology practitioners, hosted on GitHub and beyond
 * [Awesome Europe](https://github.com/GeiserX/awesome-europe) ⭐ 131 | 🐛 3 | 🌐 Python | 📅 2026-09-08 - A curated list of open source software for Europe - institutions, regulations, standards, and cross-border infrastructure
 * [Open Climate](https://github.com/Open-Earth-Foundation/OpenClimate) ⭐ 64 | 🐛 58 | 🌐 TypeScript | 📅 2025-05-15 - Independent Climate Accounting Network in support of Paris Agreement goals
@@ -191,4 +191,4 @@ Other awesome lists / resources that are more indirectly relevant for sustainabl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

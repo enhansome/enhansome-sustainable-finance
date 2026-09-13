@@ -220,7 +220,7 @@
                 "open_issues": 97,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 1970,
+                "stars": 1971,
                 "topics": [
                   "carbon-footprint",
                   "electricity",
@@ -1296,10 +1296,10 @@
                         "language": "Java",
                         "license": "Apache-2.0",
                         "last_commit": "2026-09-11T14:16:44Z",
-                        "open_issues": 111,
+                        "open_issues": 112,
                         "owner": "apache",
                         "repo": "fineract",
-                        "stars": 2470,
+                        "stars": 2472,
                         "topics": [
                           "apache",
                           "banking",
@@ -1337,7 +1337,7 @@
                         "id": 357309038,
                         "language": "TypeScript",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-11T17:12:35Z",
+                        "last_commit": "2026-09-12T15:20:05Z",
                         "open_issues": 55,
                         "owner": "interledger",
                         "repo": "rafiki",
@@ -1442,7 +1442,7 @@
                         "open_issues": 107,
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 17008,
+                        "stars": 17011,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:23:59.512Z"
@@ -1852,7 +1852,7 @@
             "open_issues": 2,
             "owner": "moov-io",
             "repo": "awesome-fintech",
-            "stars": 370,
+            "stars": 371,
             "topics": [
               "agentic",
               "banking",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:34:47.715Z",
+    "last_updated": "2026-09-13T12:41:44.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of sustainable finance resources (software, data and more)",
