@@ -217,7 +217,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-19T18:33:40Z",
-                "open_issues": 97,
+                "open_issues": 101,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
                 "stars": 1973,
@@ -1071,8 +1071,8 @@
                 "id": 40322111,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T02:48:41Z",
-                "open_issues": 68,
+                "last_commit": "2026-09-20T07:28:51Z",
+                "open_issues": 69,
                 "owner": "mimiframework",
                 "repo": "Mimi.jl",
                 "stars": 72,
@@ -1296,10 +1296,10 @@
                         "language": "Java",
                         "license": "Apache-2.0",
                         "last_commit": "2026-09-18T10:48:48Z",
-                        "open_issues": 133,
+                        "open_issues": 134,
                         "owner": "apache",
                         "repo": "fineract",
-                        "stars": 2493,
+                        "stars": 2495,
                         "topics": [
                           "apache",
                           "banking",
@@ -1439,10 +1439,10 @@
                         "language": "Zig",
                         "license": "Apache-2.0",
                         "last_commit": "2026-08-31T11:11:48Z",
-                        "open_issues": 109,
+                        "open_issues": 111,
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 17041,
+                        "stars": 17052,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:23:59.512Z"
@@ -1664,7 +1664,7 @@
                     "language": "Python",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-09-18T11:33:32Z",
-                    "open_issues": 124,
+                    "open_issues": 126,
                     "owner": "electricitymaps",
                     "repo": "electricitymaps-contrib",
                     "stars": 4034,
@@ -1693,7 +1693,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-18T11:33:32Z",
-                "open_issues": 124,
+                "open_issues": 126,
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
                 "stars": 4034,
@@ -1729,7 +1729,7 @@
                 "open_issues": 89,
                 "owner": "FZJ-IEK3-VSA",
                 "repo": "FINE",
-                "stars": 100,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:59.512Z"
@@ -1810,7 +1810,7 @@
             "open_issues": 87,
             "owner": "protontypes",
             "repo": "open-sustainable-technology",
-            "stars": 2553,
+            "stars": 2554,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:54:26.317Z",
+    "last_updated": "2026-09-20T12:15:39.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of sustainable finance resources (software, data and more)",
