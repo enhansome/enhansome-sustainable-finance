@@ -124,7 +124,7 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Mifos
 
-* [Fineract](https://github.com/apache/fineract/) ⭐ 2,511 | 🐛 124 | 🌐 Java | 📅 2026-09-25 - Apache Fineract: A Platform for Microfinance.
+* [Fineract](https://github.com/apache/fineract/) ⭐ 2,513 | 🐛 128 | 🌐 Java | 📅 2026-09-25 - Apache Fineract: A Platform for Microfinance.
 * [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
 
 #### Interledger
@@ -135,7 +135,7 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Other
 
-* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,087 | 🐛 116 | 🌐 Zig | 📅 2026-08-31 - The distributed financial transactions database designed for mission critical safety and performance.
+* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,090 | 🐛 116 | 🌐 Zig | 📅 2026-08-31 - The distributed financial transactions database designed for mission critical safety and performance.
 * [micro-finance](https://github.com/MicroPyramid/micro-finance) ⭐ 94 | 🐛 2 | 🌐 Python | 📅 2026-01-20 - Free Micro Finance Software.
 * [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
 
@@ -164,8 +164,8 @@ This section collects open data sources (API endpoints) with data relevant direc
 
 ## Energy System
 
-* [electricityMap](https://github.com/electricitymap/electricitymap-contrib) ⭐ 4,033 | 🐛 128 | 🌐 Python | 📅 2026-09-25 - A real-time visualisation of the CO2 emissions of electricity consumption
-  * [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md) ⭐ 4,033 | 🐛 128 | 🌐 Python | 📅 2026-09-25
+* [electricityMap](https://github.com/electricitymap/electricitymap-contrib) ⭐ 4,034 | 🐛 128 | 🌐 Python | 📅 2026-09-25 - A real-time visualisation of the CO2 emissions of electricity consumption
+  * [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md) ⭐ 4,034 | 🐛 128 | 🌐 Python | 📅 2026-09-25
 * [ETHOS.FINE](https://github.com/FZJ-IEK3-VSA/FINE) ⭐ 102 | 🐛 90 | 🌐 Python | 📅 2026-09-21 - Framework for Integrated Energy System Assessment
 * [gridemissions](https://github.com/jdechalendar/gridemissions) ⭐ 42 | 🐛 8 | 🌐 Python | 📅 2024-07-25 - The tools in this repository power the visualization at energy.stanford.edu/gridemissions
 * [GEM](https://www.gem.wiki/Main_Page) - GEM Wiki, the shared resource on all things energy: fossil fuels, renewable energy sources, environmental impacts, and the global movement to transition to a clean energy system
@@ -180,8 +180,8 @@ This section collects open data sources (API endpoints) with data relevant direc
 
 Other awesome lists / resources that are more indirectly relevant for sustainable finance
 
-* [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) ⭐ 2,555 | 🐛 86 | 📅 2026-09-25 - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources
-* [Awesome Fintech](https://github.com/moov-io/awesome-fintech) ⭐ 376 | 🐛 1 | 📅 2026-09-24 - A curated collection of open source fintech libraries and resources.
+* [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) ⭐ 2,556 | 🐛 86 | 📅 2026-09-25 - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources
+* [Awesome Fintech](https://github.com/moov-io/awesome-fintech) ⭐ 377 | 🐛 1 | 📅 2026-09-24 - A curated collection of open source fintech libraries and resources.
 * [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) ⭐ 170 | 🐛 0 | 📅 2026-07-02 - A collection of open source projects relevant for industrial ecology practitioners, hosted on GitHub and beyond
 * [Awesome Europe](https://github.com/GeiserX/awesome-europe) ⭐ 133 | 🐛 3 | 🌐 Python | 📅 2026-09-08 - A curated list of open source software for Europe - institutions, regulations, standards, and cross-border infrastructure
 * [Open Climate](https://github.com/Open-Earth-Foundation/OpenClimate) ⭐ 64 | 🐛 58 | 🌐 TypeScript | 📅 2025-05-15 - Independent Climate Accounting Network in support of Paris Agreement goals
@@ -191,4 +191,4 @@ Other awesome lists / resources that are more indirectly relevant for sustainabl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
