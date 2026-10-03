@@ -59,7 +59,7 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 
 Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly supporting climate finance through input-output / life-cycle analysis of economic systems
 
-* [Scafandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,978 | 🐛 101 | 🌐 Rust | 📅 2026-07-19 - Energy consumption metrology agent.
+* [Scafandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,979 | 🐛 101 | 🌐 Rust | 📅 2026-07-19 - Energy consumption metrology agent.
 * [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) ⭐ 1,053 | 🐛 206 | 🌐 TypeScript | 📅 2026-04-23 - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
 * [openLCA](https://github.com/GreenDelta/olca-app) ⭐ 266 | 🐛 41 | 🌐 Java | 📅 2026-09-29 - Source code of openLCA
 * [pymrio](https://github.com/konstantinstadler/pymrio) ⭐ 224 | 🐛 63 | 🌐 Python | 📅 2026-06-23 - Multi-Regional Input-Output Analysis in Python.
@@ -124,18 +124,18 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Mifos
 
-* [Fineract](https://github.com/apache/fineract/) ⭐ 2,524 | 🐛 147 | 🌐 Java | 📅 2026-10-02 - Apache Fineract: A Platform for Microfinance.
+* [Fineract](https://github.com/apache/fineract/) ⭐ 2,525 | 🐛 147 | 🌐 Java | 📅 2026-10-02 - Apache Fineract: A Platform for Microfinance.
 * [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
 
 #### Interledger
 
-* [rafiki](https://github.com/interledger/rafiki) ⭐ 359 | 🐛 56 | 🌐 TypeScript | 📅 2026-09-22 - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
+* [rafiki](https://github.com/interledger/rafiki) ⭐ 359 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-22 - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
 * [interledger-rs](https://github.com/interledger/interledger-rs) ⭐ 206 | 🐛 88 | 🌐 Rust | 📅 2023-06-16 - An easy-to-use, high-performance Interledger implementation written in Rust
-* [web-monetization](https://github.com/interledger/web-monetization-extension) ⭐ 153 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-03 - An open-source browser extension that enables Web Monetization.
+* [web-monetization](https://github.com/interledger/web-monetization-extension) ⭐ 153 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-03 - An open-source browser extension that enables Web Monetization.
 
 #### Other
 
-* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,127 | 🐛 120 | 🌐 Zig | 📅 2026-10-02 - The distributed financial transactions database designed for mission critical safety and performance.
+* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,128 | 🐛 120 | 🌐 Zig | 📅 2026-10-02 - The distributed financial transactions database designed for mission critical safety and performance.
 * [micro-finance](https://github.com/MicroPyramid/micro-finance) ⭐ 94 | 🐛 2 | 🌐 Python | 📅 2026-01-20 - Free Micro Finance Software.
 * [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
 

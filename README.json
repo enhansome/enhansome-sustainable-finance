@@ -220,7 +220,7 @@
                 "open_issues": 101,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 1978,
+                "stars": 1979,
                 "topics": [
                   "carbon-footprint",
                   "electricity",
@@ -1299,7 +1299,7 @@
                         "open_issues": 147,
                         "owner": "apache",
                         "repo": "fineract",
-                        "stars": 2524,
+                        "stars": 2525,
                         "topics": [
                           "apache",
                           "banking",
@@ -1338,7 +1338,7 @@
                         "language": "TypeScript",
                         "license": "Apache-2.0",
                         "last_commit": "2026-09-22T18:16:08Z",
-                        "open_issues": 56,
+                        "open_issues": 55,
                         "owner": "interledger",
                         "repo": "rafiki",
                         "stars": 359,
@@ -1405,7 +1405,7 @@
                         "language": "TypeScript",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-03T00:14:27Z",
-                        "open_issues": 25,
+                        "open_issues": 26,
                         "owner": "interledger",
                         "repo": "web-monetization-extension",
                         "stars": 153,
@@ -1442,7 +1442,7 @@
                         "open_issues": 120,
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 17127,
+                        "stars": 17128,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:23:59.512Z"
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:08:20.734Z",
+    "last_updated": "2026-10-03T12:27:58.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of sustainable finance resources (software, data and more)",
