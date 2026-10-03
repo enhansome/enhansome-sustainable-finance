@@ -220,7 +220,7 @@
                 "open_issues": 101,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 1977,
+                "stars": 1978,
                 "topics": [
                   "carbon-footprint",
                   "electricity",
@@ -262,7 +262,7 @@
                 "open_issues": 206,
                 "owner": "cloud-carbon-footprint",
                 "repo": "cloud-carbon-footprint",
-                "stars": 1052,
+                "stars": 1053,
                 "topics": [
                   "carbon-emissions",
                   "carbon-footprint",
@@ -291,7 +291,7 @@
                 "open_issues": 41,
                 "owner": "GreenDelta",
                 "repo": "olca-app",
-                "stars": 265,
+                "stars": 266,
                 "topics": [
                   "eclipse-rcp",
                   "java",
@@ -427,8 +427,8 @@
                 "id": 639568639,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T13:41:53Z",
-                "open_issues": 41,
+                "last_commit": "2026-10-02T19:02:10Z",
+                "open_issues": 44,
                 "owner": "Open-Earth-Foundation",
                 "repo": "CityCatalyst",
                 "stars": 44,
@@ -1019,7 +1019,7 @@
                 "open_issues": 144,
                 "owner": "iiasa",
                 "repo": "message_ix",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "energy-system",
                   "gams",
@@ -1047,7 +1047,7 @@
                 "open_issues": 24,
                 "owner": "worlddynamics",
                 "repo": "WorldDynamics.jl",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "hacktoberfest",
                   "integrated-assessment-model",
@@ -1295,11 +1295,11 @@
                         "id": 48418599,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-02T13:31:00Z",
-                        "open_issues": 149,
+                        "last_commit": "2026-10-02T16:41:27Z",
+                        "open_issues": 147,
                         "owner": "apache",
                         "repo": "fineract",
-                        "stars": 2522,
+                        "stars": 2524,
                         "topics": [
                           "apache",
                           "banking",
@@ -1404,7 +1404,7 @@
                         "id": 671063129,
                         "language": "TypeScript",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-02T00:15:13Z",
+                        "last_commit": "2026-10-03T00:14:27Z",
                         "open_issues": 25,
                         "owner": "interledger",
                         "repo": "web-monetization-extension",
@@ -1438,11 +1438,11 @@
                         "id": 254418044,
                         "language": "Zig",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-28T15:46:37Z",
-                        "open_issues": 121,
+                        "last_commit": "2026-10-02T16:15:18Z",
+                        "open_issues": 120,
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 17125,
+                        "stars": 17127,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:23:59.512Z"
@@ -1654,7 +1654,7 @@
                 {
                   "node_type": "item",
                   "title": "electricityMap Data Sources",
-                  "description": null,
+                  "description": "electricitymaps/electricitymaps-contrib",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1806,11 +1806,11 @@
             "id": 296566912,
             "language": null,
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-01T04:59:05Z",
-            "open_issues": 87,
+            "last_commit": "2026-10-02T17:12:39Z",
+            "open_issues": 86,
             "owner": "protontypes",
             "repo": "open-sustainable-technology",
-            "stars": 2559,
+            "stars": 2558,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1901,8 +1901,8 @@
             "id": 1188844769,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-30T16:26:20Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T00:37:21Z",
+            "open_issues": 4,
             "owner": "GeiserX",
             "repo": "awesome-europe",
             "stars": 137,
@@ -2038,7 +2038,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:48:20.760Z",
+    "last_updated": "2026-10-03T05:08:20.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of sustainable finance resources (software, data and more)",
