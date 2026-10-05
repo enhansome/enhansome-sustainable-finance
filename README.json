@@ -287,11 +287,11 @@
                 "id": 12462033,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-29T07:38:18Z",
+                "last_commit": "2026-10-05T10:58:16Z",
                 "open_issues": 41,
                 "owner": "GreenDelta",
                 "repo": "olca-app",
-                "stars": 266,
+                "stars": 267,
                 "topics": [
                   "eclipse-rcp",
                   "java",
@@ -363,7 +363,7 @@
             {
               "node_type": "item",
               "title": "MARIO",
-              "description": "Multifunctional Analysis of Regions through Input-Output",
+              "description": "Multifunctional Analysis of Regions through Input Output",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -427,8 +427,8 @@
                 "id": 639568639,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-03T14:47:16Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-05T14:43:37Z",
+                "open_issues": 47,
                 "owner": "Open-Earth-Foundation",
                 "repo": "CityCatalyst",
                 "stars": 44,
@@ -534,7 +534,7 @@
             {
               "node_type": "item",
               "title": "OpenIO-Canada",
-              "description": "Module to create symmetric Environmentally Extended Input-Output tables for Canada.",
+              "description": "Module to create symmetric Environmentally Extended Input Output tables for Canada.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -671,7 +671,7 @@
             {
               "node_type": "item",
               "title": "Leontief",
-              "description": "Leontief is a C++ package to work with economic Input-Output models",
+              "description": "Leontief is a C++ package to work with economic Input Output models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -770,7 +770,452 @@
           ],
           "description": "Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly supporting climate finance through input-output / life-cycle analysis of economic systems",
           "node_type": "group",
-          "title": "Carbon Footprint (EEIO or LCA models)"
+          "title": "Carbon Footprint"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyam",
+              "description": "Analysis & visualization of integrated-assessment and macro-energy scenarios.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Analysis & visualization of energy & climate scenarios",
+                "homepage": "https://pyam-iamc.readthedocs.io/",
+                "id": 113359260,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-01T17:47:37Z",
+                "open_issues": 108,
+                "owner": "IAMconsortium",
+                "repo": "pyam",
+                "stars": 289,
+                "topics": [
+                  "analysis",
+                  "energy-systems",
+                  "iamc-format",
+                  "integrated-assessment",
+                  "integrated-assessment-scenarios",
+                  "macro-energy",
+                  "modeling",
+                  "pyam",
+                  "scenario",
+                  "scenario-data",
+                  "timeseries-format",
+                  "visualization"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "premise",
+              "description": "PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Coupling Integrated Assessment Models output with Life Cycle Assessment.",
+                "homepage": null,
+                "id": 157362644,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-09-29T07:26:10Z",
+                "open_issues": 25,
+                "owner": "polca",
+                "repo": "premise",
+                "stars": 187,
+                "topics": [
+                  "ecoinvent",
+                  "energy",
+                  "inventory",
+                  "lifecycle",
+                  "transport"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MessageIX",
+              "description": "MESSAGEix is a versatile, dynamic, model framework for energy-engineering-economy-environment (E4) systems research.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The integrated assessment and energy systems model MESSAGEix",
+                "homepage": "https://docs.messageix.org",
+                "id": 113015968,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-05T13:55:32Z",
+                "open_issues": 145,
+                "owner": "iiasa",
+                "repo": "message_ix",
+                "stars": 149,
+                "topics": [
+                  "energy-system",
+                  "gams",
+                  "integrated-assessment",
+                  "integrated-assessment-model",
+                  "open-source",
+                  "strategic-planning"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WorldDynamics.jl",
+              "description": "An open-source framework written in Julia for global integrated assessment models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An open-source framework written in Julia for global integrated assessment models.",
+                "homepage": "https://worlddynamics.github.io/WorldDynamics.jl/dev/",
+                "id": 425565525,
+                "language": "Julia",
+                "license": "MIT",
+                "last_commit": "2024-05-25T10:27:11Z",
+                "open_issues": 24,
+                "owner": "worlddynamics",
+                "repo": "WorldDynamics.jl",
+                "stars": 76,
+                "topics": [
+                  "hacktoberfest",
+                  "integrated-assessment-model",
+                  "julia",
+                  "sciml",
+                  "simulation",
+                  "world3"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "mimi",
+              "description": "Mimi is a Julia package that provides a component model for integrated assessment models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Integrated Assessment Modeling Framework",
+                "homepage": "https://www.mimiframework.org",
+                "id": 40322111,
+                "language": "Julia",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-01T02:24:23Z",
+                "open_issues": 72,
+                "owner": "mimiframework",
+                "repo": "Mimi.jl",
+                "stars": 72,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WITCH",
+              "description": "World Induced Technical Change Hybrid model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The WITCH integrated assessment model",
+                "homepage": "https://www.witchmodel.org",
+                "id": 329956657,
+                "language": "GAMS",
+                "license": "Apache-2.0",
+                "last_commit": "2025-06-06T10:17:15Z",
+                "open_issues": 0,
+                "owner": "witch-team",
+                "repo": "witchmodel",
+                "stars": 33,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DICE",
+              "description": "Dynamic Integrated Climate-Economy Model of the Economics of Global Warming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dynamic Integrated Climate-Economy Model of the Economics of Global Warming",
+                "homepage": null,
+                "id": 15875311,
+                "language": "GAMS",
+                "license": null,
+                "last_commit": "2014-12-18T19:42:26Z",
+                "open_issues": 0,
+                "owner": "psztorc",
+                "repo": "DICE",
+                "stars": 32,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "python-DICE",
+              "description": "Python 3.6 implementation of Dynamic Integrated Climate-Economy (DICE).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python  3.6 implementation of Dynamic Integrated Climate-Economy (DICE)  ",
+                "homepage": null,
+                "id": 196299576,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2020-07-17T07:48:59Z",
+                "open_issues": 0,
+                "owner": "Shivamshaiv",
+                "repo": "Python-DICE",
+                "stars": 24,
+                "topics": [
+                  "climate-change",
+                  "climate-data",
+                  "dice",
+                  "integrated-assessment-model",
+                  "python-dice",
+                  "simulation"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nomenclature",
+              "description": "Working with IAMC-format project definitions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A package to work with IAMC-style variable templates",
+                "homepage": "https://nomenclature-iamc.readthedocs.io/",
+                "id": 375724610,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-30T08:58:42Z",
+                "open_issues": 57,
+                "owner": "IAMconsortium",
+                "repo": "nomenclature",
+                "stars": 24,
+                "topics": [
+                  "energy-systems",
+                  "iamc-format",
+                  "integrated-assessment",
+                  "pyam",
+                  "python",
+                  "scenario",
+                  "scenario-data",
+                  "timeseries-format"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "META",
+              "description": "The Model for Economic Tipping (point) Analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Model for Economic Tipping (point) Analysis",
+                "homepage": null,
+                "id": 384230930,
+                "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
+                "last_commit": "2024-04-28T02:36:07Z",
+                "open_issues": 1,
+                "owner": "openmodels",
+                "repo": "META-2021",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "IAMC Tools",
+              "description": "A collection of R tools for data analysis and diagnostics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "R package to work with IAMC-format data",
+                "homepage": null,
+                "id": 91690191,
+                "language": "R",
+                "license": "NOASSERTION",
+                "last_commit": "2023-09-12T18:43:10Z",
+                "open_issues": 1,
+                "owner": "IAMconsortium",
+                "repo": "iamc",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "aneris",
+              "description": "Harmonization of Emissions Trajectories for Integrated Assessment Models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Harmonization of Emissions Trajectories for Integrated Assessment Models",
+                "homepage": null,
+                "id": 120734405,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2026-03-27T14:32:07Z",
+                "open_issues": 12,
+                "owner": "iiasa",
+                "repo": "aneris",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DICE++",
+              "description": "C++-Implementation of the DICE Dynamic Integrated Climate-Economy Model of the Economics of Global Warming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "C++-Implementation of the DICE Dynamic Integrated Climate-Economy Model of the Economics of Global Warming, using automatic differentiation",
+                "homepage": null,
+                "id": 99807424,
+                "language": "C++",
+                "license": "AGPL-3.0",
+                "last_commit": "2021-07-27T06:49:20Z",
+                "open_issues": 0,
+                "owner": "swillner",
+                "repo": "dicepp",
+                "stars": 2,
+                "topics": [
+                  "climate-change",
+                  "dice",
+                  "economic-models",
+                  "economics",
+                  "integrated-assessment-model",
+                  "model",
+                  "scientific-modelling"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            }
+          ],
+          "description": "Integrated economic models (for macroeconomic scenarios)",
+          "node_type": "group",
+          "title": "Integrated Assessment Models"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "rafiki",
+                  "description": "An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.",
+                    "homepage": "https://rafiki.dev/",
+                    "id": 357309038,
+                    "language": "TypeScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-03T23:29:07Z",
+                    "open_issues": 58,
+                    "owner": "interledger",
+                    "repo": "rafiki",
+                    "stars": 359,
+                    "topics": [
+                      "digital-public-goods",
+                      "dpg",
+                      "ilp",
+                      "interledger",
+                      "rafiki",
+                      "sdg-10",
+                      "sdg-17",
+                      "sdg-8",
+                      "sdg-9",
+                      "webmonetization"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T19:23:59.512Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "interledger-rs",
+                  "description": "An easy-to-use, high-performance Interledger implementation written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An easy-to-use, high-performance Interledger implementation written in Rust",
+                    "homepage": "http://interledger.rs",
+                    "id": 96478880,
+                    "language": "Rust",
+                    "license": "NOASSERTION",
+                    "last_commit": "2023-06-16T05:31:55Z",
+                    "open_issues": 88,
+                    "owner": "interledger",
+                    "repo": "interledger-rs",
+                    "stars": 206,
+                    "topics": [
+                      "bitcoin",
+                      "blockchain",
+                      "ethereum",
+                      "ilp",
+                      "interledger",
+                      "interoperability",
+                      "lightning",
+                      "micropayments",
+                      "nanopayments",
+                      "payment",
+                      "rust",
+                      "streaming",
+                      "xrp"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T19:23:59.512Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "web-monetization",
+                  "description": "An open-source browser extension that enables Web Monetization.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Browser extension that enables Web Monetization using Open Payments standard.",
+                    "homepage": null,
+                    "id": 671063129,
+                    "language": "TypeScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-05T00:15:59Z",
+                    "open_issues": 26,
+                    "owner": "interledger",
+                    "repo": "web-monetization-extension",
+                    "stars": 153,
+                    "topics": [
+                      "hacktoberfest",
+                      "ilp",
+                      "interledger",
+                      "open-payments",
+                      "web-monetization"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T19:23:59.512Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Interledger"
+            }
+          ],
+          "description": "Models of economic networks and platforms supporting economic networks and payment systems",
+          "node_type": "group",
+          "title": "Economic Networks"
         },
         {
           "children": [
@@ -943,343 +1388,6 @@
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "pyam",
-              "description": "Analysis & visualization of integrated-assessment and macro-energy scenarios.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Analysis & visualization of energy & climate scenarios",
-                "homepage": "https://pyam-iamc.readthedocs.io/",
-                "id": 113359260,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-01T17:47:37Z",
-                "open_issues": 108,
-                "owner": "IAMconsortium",
-                "repo": "pyam",
-                "stars": 289,
-                "topics": [
-                  "analysis",
-                  "energy-systems",
-                  "iamc-format",
-                  "integrated-assessment",
-                  "integrated-assessment-scenarios",
-                  "macro-energy",
-                  "modeling",
-                  "pyam",
-                  "scenario",
-                  "scenario-data",
-                  "timeseries-format",
-                  "visualization"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "premise",
-              "description": "PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Coupling Integrated Assessment Models output with Life Cycle Assessment.",
-                "homepage": null,
-                "id": 157362644,
-                "language": "Python",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-09-29T07:26:10Z",
-                "open_issues": 25,
-                "owner": "polca",
-                "repo": "premise",
-                "stars": 187,
-                "topics": [
-                  "ecoinvent",
-                  "energy",
-                  "inventory",
-                  "lifecycle",
-                  "transport"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MessageIX",
-              "description": "MESSAGEix is a versatile, dynamic, model framework for energy-engineering-economy-environment (E4) systems research.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The integrated assessment and energy systems model MESSAGEix",
-                "homepage": "https://docs.messageix.org",
-                "id": 113015968,
-                "language": "Jupyter Notebook",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-18T13:59:31Z",
-                "open_issues": 144,
-                "owner": "iiasa",
-                "repo": "message_ix",
-                "stars": 149,
-                "topics": [
-                  "energy-system",
-                  "gams",
-                  "integrated-assessment",
-                  "integrated-assessment-model",
-                  "open-source",
-                  "strategic-planning"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "WorldDynamics.jl",
-              "description": "An open-source framework written in Julia for global integrated assessment models.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An open-source framework written in Julia for global integrated assessment models.",
-                "homepage": "https://worlddynamics.github.io/WorldDynamics.jl/dev/",
-                "id": 425565525,
-                "language": "Julia",
-                "license": "MIT",
-                "last_commit": "2024-05-25T10:27:11Z",
-                "open_issues": 24,
-                "owner": "worlddynamics",
-                "repo": "WorldDynamics.jl",
-                "stars": 76,
-                "topics": [
-                  "hacktoberfest",
-                  "integrated-assessment-model",
-                  "julia",
-                  "sciml",
-                  "simulation",
-                  "world3"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "mimi",
-              "description": "Mimi is a Julia package that provides a component model for integrated assessment models.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Integrated Assessment Modeling Framework",
-                "homepage": "https://www.mimiframework.org",
-                "id": 40322111,
-                "language": "Julia",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-01T02:24:23Z",
-                "open_issues": 72,
-                "owner": "mimiframework",
-                "repo": "Mimi.jl",
-                "stars": 72,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "WITCH",
-              "description": "World Induced Technical Change Hybrid model.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The WITCH integrated assessment model",
-                "homepage": "https://www.witchmodel.org",
-                "id": 329956657,
-                "language": "GAMS",
-                "license": "Apache-2.0",
-                "last_commit": "2025-06-06T10:17:15Z",
-                "open_issues": 0,
-                "owner": "witch-team",
-                "repo": "witchmodel",
-                "stars": 33,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DICE",
-              "description": "Dynamic Integrated Climate-Economy Model of the Economics of Global Warming.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Dynamic Integrated Climate-Economy Model of the Economics of Global Warming",
-                "homepage": null,
-                "id": 15875311,
-                "language": "GAMS",
-                "license": null,
-                "last_commit": "2014-12-18T19:42:26Z",
-                "open_issues": 0,
-                "owner": "psztorc",
-                "repo": "DICE",
-                "stars": 32,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "python-DICE",
-              "description": "Python 3.6 implementation of Dynamic Integrated Climate-Economy (DICE).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Python  3.6 implementation of Dynamic Integrated Climate-Economy (DICE)  ",
-                "homepage": null,
-                "id": 196299576,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2020-07-17T07:48:59Z",
-                "open_issues": 0,
-                "owner": "Shivamshaiv",
-                "repo": "Python-DICE",
-                "stars": 24,
-                "topics": [
-                  "climate-change",
-                  "climate-data",
-                  "dice",
-                  "integrated-assessment-model",
-                  "python-dice",
-                  "simulation"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "nomenclature",
-              "description": "Working with IAMC-format project definitions.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A package to work with IAMC-style variable templates",
-                "homepage": "https://nomenclature-iamc.readthedocs.io/",
-                "id": 375724610,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-30T08:58:42Z",
-                "open_issues": 56,
-                "owner": "IAMconsortium",
-                "repo": "nomenclature",
-                "stars": 24,
-                "topics": [
-                  "energy-systems",
-                  "iamc-format",
-                  "integrated-assessment",
-                  "pyam",
-                  "python",
-                  "scenario",
-                  "scenario-data",
-                  "timeseries-format"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "META",
-              "description": "The Model for Economic Tipping (point) Analysis",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The Model for Economic Tipping (point) Analysis",
-                "homepage": null,
-                "id": 384230930,
-                "language": "Jupyter Notebook",
-                "license": "GPL-3.0",
-                "last_commit": "2024-04-28T02:36:07Z",
-                "open_issues": 1,
-                "owner": "openmodels",
-                "repo": "META-2021",
-                "stars": 18,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "IAMC Tools",
-              "description": "A collection of R tools for data analysis and diagnostics.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "R package to work with IAMC-format data",
-                "homepage": null,
-                "id": 91690191,
-                "language": "R",
-                "license": "NOASSERTION",
-                "last_commit": "2023-09-12T18:43:10Z",
-                "open_issues": 1,
-                "owner": "IAMconsortium",
-                "repo": "iamc",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "aneris",
-              "description": "Harmonization of Emissions Trajectories for Integrated Assessment Models.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Harmonization of Emissions Trajectories for Integrated Assessment Models",
-                "homepage": null,
-                "id": 120734405,
-                "language": "Jupyter Notebook",
-                "license": "Apache-2.0",
-                "last_commit": "2026-03-27T14:32:07Z",
-                "open_issues": 12,
-                "owner": "iiasa",
-                "repo": "aneris",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DICE++",
-              "description": "C++-Implementation of the DICE Dynamic Integrated Climate-Economy Model of the Economics of Global Warming.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "C++-Implementation of the DICE Dynamic Integrated Climate-Economy Model of the Economics of Global Warming, using automatic differentiation",
-                "homepage": null,
-                "id": 99807424,
-                "language": "C++",
-                "license": "AGPL-3.0",
-                "last_commit": "2021-07-27T06:49:20Z",
-                "open_issues": 0,
-                "owner": "swillner",
-                "repo": "dicepp",
-                "stars": 2,
-                "topics": [
-                  "climate-change",
-                  "dice",
-                  "economic-models",
-                  "economics",
-                  "integrated-assessment-model",
-                  "model",
-                  "scientific-modelling"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            }
-          ],
-          "description": "Integrated economic models (for macroeconomic scenarios)",
-          "node_type": "group",
-          "title": "Integrated Assessment Models"
-        },
-        {
-          "children": [
-            {
               "children": [
                 {
                   "children": [
@@ -1295,11 +1403,11 @@
                         "id": 48418599,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-02T16:41:27Z",
-                        "open_issues": 148,
+                        "last_commit": "2026-10-05T05:04:46Z",
+                        "open_issues": 165,
                         "owner": "apache",
                         "repo": "fineract",
-                        "stars": 2526,
+                        "stars": 2528,
                         "topics": [
                           "apache",
                           "banking",
@@ -1327,107 +1435,6 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "rafiki",
-                      "description": "An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.",
-                        "homepage": "https://rafiki.dev/",
-                        "id": 357309038,
-                        "language": "TypeScript",
-                        "license": "Apache-2.0",
-                        "last_commit": "2026-10-03T23:29:07Z",
-                        "open_issues": 58,
-                        "owner": "interledger",
-                        "repo": "rafiki",
-                        "stars": 359,
-                        "topics": [
-                          "digital-public-goods",
-                          "dpg",
-                          "ilp",
-                          "interledger",
-                          "rafiki",
-                          "sdg-10",
-                          "sdg-17",
-                          "sdg-8",
-                          "sdg-9",
-                          "webmonetization"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T19:23:59.512Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "interledger-rs",
-                      "description": "An easy-to-use, high-performance Interledger implementation written in Rust",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "An easy-to-use, high-performance Interledger implementation written in Rust",
-                        "homepage": "http://interledger.rs",
-                        "id": 96478880,
-                        "language": "Rust",
-                        "license": "NOASSERTION",
-                        "last_commit": "2023-06-16T05:31:55Z",
-                        "open_issues": 88,
-                        "owner": "interledger",
-                        "repo": "interledger-rs",
-                        "stars": 206,
-                        "topics": [
-                          "bitcoin",
-                          "blockchain",
-                          "ethereum",
-                          "ilp",
-                          "interledger",
-                          "interoperability",
-                          "lightning",
-                          "micropayments",
-                          "nanopayments",
-                          "payment",
-                          "rust",
-                          "streaming",
-                          "xrp"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T19:23:59.512Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "web-monetization",
-                      "description": "An open-source browser extension that enables Web Monetization.",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Browser extension that enables Web Monetization using Open Payments standard.",
-                        "homepage": null,
-                        "id": 671063129,
-                        "language": "TypeScript",
-                        "license": "Apache-2.0",
-                        "last_commit": "2026-10-03T00:14:27Z",
-                        "open_issues": 26,
-                        "owner": "interledger",
-                        "repo": "web-monetization-extension",
-                        "stars": 153,
-                        "topics": [
-                          "hacktoberfest",
-                          "ilp",
-                          "interledger",
-                          "open-payments",
-                          "web-monetization"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T19:23:59.512Z"
-                    }
-                  ],
-                  "description": null,
-                  "node_type": "group",
-                  "title": "Interledger"
-                },
-                {
-                  "children": [
-                    {
-                      "node_type": "item",
                       "title": "tigerbeetle",
                       "description": "The distributed financial transactions database designed for mission critical safety and performance.",
                       "children": [],
@@ -1439,10 +1446,10 @@
                         "language": "Zig",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-02T16:15:18Z",
-                        "open_issues": 119,
+                        "open_issues": 120,
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 17134,
+                        "stars": 17139,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:23:59.512Z"
@@ -1571,7 +1578,7 @@
                 "id": 299948593,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:46:49Z",
+                "last_commit": "2026-10-05T09:30:23Z",
                 "open_issues": 272,
                 "owner": "openghg",
                 "repo": "openghg",
@@ -1664,7 +1671,7 @@
                     "language": "Python",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-02T13:18:43Z",
-                    "open_issues": 125,
+                    "open_issues": 126,
                     "owner": "electricitymaps",
                     "repo": "electricitymaps-contrib",
                     "stars": 4038,
@@ -1693,7 +1700,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-02T13:18:43Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
                 "stars": 4038,
@@ -1725,8 +1732,8 @@
                 "id": 139456829,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T07:38:02Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-05T13:36:18Z",
+                "open_issues": 98,
                 "owner": "FZJ-IEK3-VSA",
                 "repo": "FINE",
                 "stars": 102,
@@ -1810,7 +1817,7 @@
             "open_issues": 88,
             "owner": "protontypes",
             "repo": "open-sustainable-technology",
-            "stars": 2558,
+            "stars": 2559,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1848,11 +1855,11 @@
             "id": 385678818,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-24T14:08:06Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-05T14:15:24Z",
+            "open_issues": 1,
             "owner": "moov-io",
             "repo": "awesome-fintech",
-            "stars": 385,
+            "stars": 386,
             "topics": [
               "agentic",
               "banking",
@@ -1892,7 +1899,7 @@
         {
           "node_type": "item",
           "title": "Awesome Europe",
-          "description": "A curated list of open source software for Europe - institutions, regulations, standards, and cross-border infrastructure",
+          "description": "A curated list of open source software for Europe: institutions, regulations, standards, and cross-border infrastructure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1901,7 +1908,7 @@
             "id": 1188844769,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-03T19:36:08Z",
+            "last_commit": "2026-10-04T21:10:49Z",
             "open_issues": 4,
             "owner": "GeiserX",
             "repo": "awesome-europe",
@@ -2034,11 +2041,11 @@
           "first_seen": "2026-08-28T19:23:59.512Z"
         }
       ],
-      "title": "Broader and/or Related Domains"
+      "title": "Related Domains"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:09:08.210Z",
+    "last_updated": "2026-10-05T15:55:15.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of sustainable finance resources (software, data and more)",
@@ -2046,7 +2053,7 @@
       "id": 492807960,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-28T20:39:51Z",
+      "last_commit": "2026-10-05T13:08:04Z",
       "open_issues": 2,
       "owner": "open-risk",
       "repo": "awesome-sustainable-finance",
@@ -2058,13 +2065,14 @@
         "carbon-footprint",
         "climate-change",
         "climate-finance",
+        "economic-networks",
         "financial-inclusion",
         "sustainability",
         "sustainable-development-goals",
         "sustainable-finance"
       ]
     },
-    "original_repository_sha": "27def36c709a7f789f53ccd996e6fda4db851813",
+    "original_repository_sha": "6ffc9a49cfece2ff0fc85ee0194bb0e098f8d766",
     "enhanced_repository": "enhansome/enhansome-sustainable-finance",
     "enhanced_repository_description": null,
     "title": "Awesome Sustainable Finance with stars"
