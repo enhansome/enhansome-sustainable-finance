@@ -312,8 +312,8 @@
                 "id": 21688312,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T21:33:28Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-18T11:40:13Z",
+                "open_issues": 41,
                 "owner": "IndEcol",
                 "repo": "pymrio",
                 "stars": 224,
@@ -1161,7 +1161,7 @@
                     "open_issues": 88,
                     "owner": "interledger",
                     "repo": "interledger-rs",
-                    "stars": 206,
+                    "stars": 207,
                     "topics": [
                       "bitcoin",
                       "blockchain",
@@ -1403,11 +1403,11 @@
                         "id": 48418599,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-16T20:58:35Z",
+                        "last_commit": "2026-10-17T21:33:54Z",
                         "open_issues": 140,
                         "owner": "apache",
                         "repo": "fineract",
-                        "stars": 2556,
+                        "stars": 2558,
                         "topics": [
                           "apache",
                           "banking",
@@ -1671,7 +1671,7 @@
                     "language": "Python",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-16T14:14:30Z",
-                    "open_issues": 132,
+                    "open_issues": 133,
                     "owner": "electricitymaps",
                     "repo": "electricitymaps-contrib",
                     "stars": 4044,
@@ -1700,7 +1700,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-16T14:14:30Z",
-                "open_issues": 132,
+                "open_issues": 133,
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
                 "stars": 4044,
@@ -1817,7 +1817,7 @@
             "open_issues": 88,
             "owner": "protontypes",
             "repo": "open-sustainable-technology",
-            "stars": 2569,
+            "stars": 2571,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1859,7 +1859,7 @@
             "open_issues": 2,
             "owner": "moov-io",
             "repo": "awesome-fintech",
-            "stars": 389,
+            "stars": 391,
             "topics": [
               "agentic",
               "banking",
@@ -2045,7 +2045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:33:13.238Z",
+    "last_updated": "2026-10-18T12:01:31.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of sustainable finance resources (software, data and more)",

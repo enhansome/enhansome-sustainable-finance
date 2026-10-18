@@ -63,7 +63,7 @@ Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly support
 * [Scafandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,984 | 🐛 102 | 🌐 Rust | 📅 2026-07-19 - Energy consumption metrology agent.
 * [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) ⭐ 1,052 | 🐛 206 | 🌐 TypeScript | 📅 2026-04-23 - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
 * [openLCA](https://github.com/GreenDelta/olca-app) ⭐ 269 | 🐛 41 | 🌐 Java | 📅 2026-10-05 - Source code of openLCA
-* [pymrio](https://github.com/konstantinstadler/pymrio) ⭐ 224 | 🐛 44 | 🌐 Python | 📅 2026-10-16 - Multi-Regional Input-Output Analysis in Python.
+* [pymrio](https://github.com/konstantinstadler/pymrio) ⭐ 224 | 🐛 41 | 🌐 Python | 📅 2026-10-18 - Multi-Regional Input-Output Analysis in Python.
 * [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) ⭐ 64 | 🐛 58 | 🌐 TypeScript | 📅 2025-05-15 - A data utility for tracking climate action.
 * [MARIO](https://github.com/it-is-me-mario/MARIO) ⭐ 52 | 🐛 23 | 🌐 Python | 📅 2026-10-15 - Multifunctional Analysis of Regions through Input Output
 * [pyLCAIO](https://github.com/MaximeAgez/pylcaio) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2025-07-28 - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.
@@ -113,7 +113,7 @@ Models of economic networks and platforms supporting economic networks and payme
 ### Interledger
 
 * [rafiki](https://github.com/interledger/rafiki) ⭐ 360 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-14 - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
-* [interledger-rs](https://github.com/interledger/interledger-rs) ⭐ 206 | 🐛 88 | 🌐 Rust | 📅 2023-06-16 - An easy-to-use, high-performance Interledger implementation written in Rust
+* [interledger-rs](https://github.com/interledger/interledger-rs) ⭐ 207 | 🐛 88 | 🌐 Rust | 📅 2023-06-16 - An easy-to-use, high-performance Interledger implementation written in Rust
 * [web-monetization](https://github.com/interledger/web-monetization-extension) ⭐ 153 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-17 - An open-source browser extension that enables Web Monetization.
 
 ## Biodiversity Finance
@@ -139,7 +139,7 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Mifos
 
-* [Fineract](https://github.com/apache/fineract/) ⭐ 2,556 | 🐛 140 | 🌐 Java | 📅 2026-10-16 - Apache Fineract: A Platform for Microfinance.
+* [Fineract](https://github.com/apache/fineract/) ⭐ 2,558 | 🐛 140 | 🌐 Java | 📅 2026-10-17 - Apache Fineract: A Platform for Microfinance.
 * [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
 
 #### Other
@@ -173,8 +173,8 @@ This section collects open data sources (API endpoints) with data relevant direc
 
 ## Energy System
 
-* [electricityMap](https://github.com/electricitymap/electricitymap-contrib) ⭐ 4,044 | 🐛 132 | 🌐 Python | 📅 2026-10-16 - A real-time visualisation of the CO2 emissions of electricity consumption
-  * [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md) ⭐ 4,044 | 🐛 132 | 🌐 Python | 📅 2026-10-16
+* [electricityMap](https://github.com/electricitymap/electricitymap-contrib) ⭐ 4,044 | 🐛 133 | 🌐 Python | 📅 2026-10-16 - A real-time visualisation of the CO2 emissions of electricity consumption
+  * [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md) ⭐ 4,044 | 🐛 133 | 🌐 Python | 📅 2026-10-16
 * [ETHOS.FINE](https://github.com/FZJ-IEK3-VSA/FINE) ⭐ 102 | 🐛 91 | 🌐 Python | 📅 2026-10-14 - Framework for Integrated Energy System Assessment
 * [gridemissions](https://github.com/jdechalendar/gridemissions) ⭐ 42 | 🐛 8 | 🌐 Python | 📅 2024-07-25 - The tools in this repository power the visualization at energy.stanford.edu/gridemissions
 * [GEM](https://www.gem.wiki/Main_Page) - GEM Wiki, the shared resource on all things energy: fossil fuels, renewable energy sources, environmental impacts, and the global movement to transition to a clean energy system
@@ -189,8 +189,8 @@ This section collects open data sources (API endpoints) with data relevant direc
 
 Other awesome lists / resources that are more indirectly relevant for sustainable finance
 
-* [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) ⭐ 2,569 | 🐛 88 | 📅 2026-10-17 - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources
-* [Awesome Fintech](https://github.com/moov-io/awesome-fintech) ⭐ 389 | 🐛 2 | 📅 2026-10-05 - A curated collection of open source fintech libraries and resources.
+* [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) ⭐ 2,571 | 🐛 88 | 📅 2026-10-17 - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources
+* [Awesome Fintech](https://github.com/moov-io/awesome-fintech) ⭐ 391 | 🐛 2 | 📅 2026-10-05 - A curated collection of open source fintech libraries and resources.
 * [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) ⭐ 171 | 🐛 0 | 📅 2026-07-02 - A collection of open source projects relevant for industrial ecology practitioners, hosted on GitHub and beyond
 * [Awesome Europe](https://github.com/GeiserX/awesome-europe) ⭐ 145 | 🐛 1 | 🌐 Python | 📅 2026-10-15 - A curated list of open source software for Europe: institutions, regulations, standards, and cross-border infrastructure
 * [Open Climate](https://github.com/Open-Earth-Foundation/OpenClimate) ⭐ 64 | 🐛 58 | 🌐 TypeScript | 📅 2025-05-15 - Independent Climate Accounting Network in support of Paris Agreement goals
@@ -201,4 +201,4 @@ Other awesome lists / resources that are more indirectly relevant for sustainabl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
