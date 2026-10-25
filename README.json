@@ -167,7 +167,7 @@
                 "id": 665844676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T02:34:50Z",
+                "last_commit": "2026-10-25T11:24:16Z",
                 "open_issues": 7,
                 "owner": "ONEcampaign",
                 "repo": "climate-finance-package",
@@ -220,7 +220,7 @@
                 "open_issues": 102,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 2009,
+                "stars": 2010,
                 "topics": [
                   "carbon-footprint",
                   "electricity",
@@ -338,7 +338,7 @@
                 "id": 409710236,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T08:00:58Z",
+                "last_commit": "2026-10-24T13:14:18Z",
                 "open_issues": 58,
                 "owner": "Open-Earth-Foundation",
                 "repo": "OpenClimate",
@@ -367,8 +367,8 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Multifunctional Analysis of Regions through Input-Output",
-                "homepage": null,
+                "description": "Python framework for input-output and supply-use modelling, scenario analysis and environmental and socio-economic assessment.",
+                "homepage": "https://www.marioproject.com/en/latest/",
                 "id": 421900437,
                 "language": "Python",
                 "license": "GPL-3.0",
@@ -377,7 +377,14 @@
                 "owner": "it-is-me-mario",
                 "repo": "MARIO",
                 "stars": 53,
-                "topics": []
+                "topics": [
+                  "industrial-ecology",
+                  "input-output-analysis",
+                  "mario-suite",
+                  "python",
+                  "scenario-analysis",
+                  "supply-use-tables"
+                ]
               },
               "first_seen": "2026-08-28T19:23:59.512Z"
             },
@@ -1125,8 +1132,8 @@
                     "id": 357309038,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-22T16:06:20Z",
-                    "open_issues": 57,
+                    "last_commit": "2026-10-25T10:33:15Z",
+                    "open_issues": 51,
                     "owner": "interledger",
                     "repo": "rafiki",
                     "stars": 360,
@@ -1403,11 +1410,11 @@
                         "id": 48418599,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-24T11:42:12Z",
-                        "open_issues": 140,
+                        "last_commit": "2026-10-25T10:40:33Z",
+                        "open_issues": 139,
                         "owner": "apache",
                         "repo": "fineract",
-                        "stars": 2572,
+                        "stars": 2574,
                         "topics": [
                           "apache",
                           "banking",
@@ -1449,7 +1456,7 @@
                         "open_issues": 104,
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 17241,
+                        "stars": 17245,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:23:59.512Z"
@@ -1671,7 +1678,7 @@
                     "language": "Python",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-23T14:02:51Z",
-                    "open_issues": 142,
+                    "open_issues": 143,
                     "owner": "electricitymaps",
                     "repo": "electricitymaps-contrib",
                     "stars": 4046,
@@ -1700,7 +1707,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-23T14:02:51Z",
-                "open_issues": 142,
+                "open_issues": 143,
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
                 "stars": 4046,
@@ -1817,7 +1824,7 @@
             "open_issues": 90,
             "owner": "protontypes",
             "repo": "open-sustainable-technology",
-            "stars": 2576,
+            "stars": 2577,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1912,7 +1919,7 @@
             "open_issues": 1,
             "owner": "GeiserX",
             "repo": "awesome-europe",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "awesome-europe",
               "awesome-list",
@@ -1950,7 +1957,7 @@
             "id": 409710236,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T08:00:58Z",
+            "last_commit": "2026-10-24T13:14:18Z",
             "open_issues": 58,
             "owner": "Open-Earth-Foundation",
             "repo": "OpenClimate",
@@ -2045,7 +2052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:57:35.402Z",
+    "last_updated": "2026-10-25T12:31:34.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of sustainable finance resources (software, data and more)",
