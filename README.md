@@ -51,7 +51,7 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 * [Equinox](https://github.com/open-risk/equinox) ⭐ 54 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-02 - Equinox is an open source platform that supports the holistic risk management of sustainable finance projects.
 * [open-climate-investing](https://github.com/opentaps/open-climate-investing) ⭐ 51 | 🐛 9 | 🌐 JavaScript | 📅 2022-10-20 - Application and data for analyzing and structuring portfolios for climate investing.
 * [PACTA](https://github.com/2DegreesInvesting/PACTA_analysis) ⚠️ Archived - Run the PACTA analysis on EQ & CB portfolios.
-* [climate-finance](https://github.com/ONEcampaign/climate-finance-package) ⭐ 15 | 🐛 13 | 🌐 Python | 📅 2026-11-04 - climate-finance is the python package to get, clean, and work with international public climate finance.
+* [climate-finance](https://github.com/ONEcampaign/climate-finance-package) ⭐ 15 | 🐛 19 | 🌐 Python | 📅 2026-11-07 - climate-finance is the python package to get, clean, and work with international public climate finance.
 * [r2dii.analysis](https://github.com/2DegreesInvesting/r2dii.analysis) ⚠️ Archived - Tools to Calculate Climate Targets for Financial Portfolios.
 * [OS-Climate](https://github.com/os-climate) - Open Source Solutions to Enable Climate-Smart Investing.
 * [ESG Reg Reporting](https://gitlab.com/finosfoundation/legend/reg-innovation/esg-reg-reporting) - A FINOS project to enable banks to consume 3rd party ESG data for the purposes of EU regulatory reporting.
@@ -61,7 +61,7 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly supporting climate finance through input-output / life-cycle analysis of economic systems
 
 * [Scafandre](https://github.com/hubblo-org/scaphandre) ⭐ 2,017 | 🐛 103 | 🌐 Rust | 📅 2026-07-19 - Energy consumption metrology agent.
-* [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) ⭐ 1,054 | 🐛 206 | 🌐 TypeScript | 📅 2026-04-23 - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
+* [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) ⭐ 1,053 | 🐛 206 | 🌐 TypeScript | 📅 2026-04-23 - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
 * [openLCA](https://github.com/GreenDelta/olca-app) ⭐ 269 | 🐛 41 | 🌐 Java | 📅 2026-11-05 - Source code of openLCA
 * [pymrio](https://github.com/konstantinstadler/pymrio) ⭐ 226 | 🐛 41 | 🌐 Python | 📅 2026-10-22 - Multi-Regional Input-Output Analysis in Python.
 * [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) ⭐ 64 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-24 - A data utility for tracking climate action.
@@ -89,8 +89,8 @@ Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly support
 Integrated economic models (for macroeconomic scenarios)
 
 * [pyam](https://github.com/IAMconsortium/pyam) ⭐ 291 | 🐛 105 | 🌐 Python | 📅 2026-11-02 - Analysis & visualization of integrated-assessment and macro-energy scenarios.
-* [premise](https://github.com/polca/premise) ⭐ 192 | 🐛 23 | 🌐 Python | 📅 2026-11-05 - PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM).
-* [MessageIX](https://github.com/iiasa/message_ix) ⭐ 150 | 🐛 145 | 🌐 Jupyter Notebook | 📅 2026-11-04 - MESSAGEix is a versatile, dynamic, model framework for energy-engineering-economy-environment (E4) systems research.
+* [premise](https://github.com/polca/premise) ⭐ 192 | 🐛 23 | 🌐 Python | 📅 2026-11-06 - PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM).
+* [MessageIX](https://github.com/iiasa/message_ix) ⭐ 150 | 🐛 145 | 🌐 Jupyter Notebook | 📅 2026-11-07 - MESSAGEix is a versatile, dynamic, model framework for energy-engineering-economy-environment (E4) systems research.
 * [WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl) ⭐ 76 | 🐛 24 | 🌐 Julia | 📅 2024-05-25 - An open-source framework written in Julia for global integrated assessment models.
 * [mimi](https://github.com/mimiframework/Mimi.jl) ⭐ 72 | 🐛 75 | 🌐 Julia | 📅 2026-11-01 - Mimi is a Julia package that provides a component model for integrated assessment models.
 * [WITCH](https://github.com/witch-team/witchmodel) ⭐ 34 | 🐛 0 | 🌐 GAMS | 📅 2025-06-06 - World Induced Technical Change Hybrid model.
@@ -112,9 +112,9 @@ Models of economic networks and platforms supporting economic networks and payme
 
 ### Interledger
 
-* [rafiki](https://github.com/interledger/rafiki) ⭐ 361 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-06 - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
+* [rafiki](https://github.com/interledger/rafiki) ⭐ 361 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-07 - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
 * [interledger-rs](https://github.com/interledger/interledger-rs) ⭐ 207 | 🐛 88 | 🌐 Rust | 📅 2023-06-16 - An easy-to-use, high-performance Interledger implementation written in Rust
-* [web-monetization](https://github.com/interledger/web-monetization-extension) ⭐ 153 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-06 - An open-source browser extension that enables Web Monetization.
+* [web-monetization](https://github.com/interledger/web-monetization-extension) ⭐ 153 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-07 - An open-source browser extension that enables Web Monetization.
 
 ## Biodiversity Finance
 
@@ -139,12 +139,12 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Mifos
 
-* [Fineract](https://github.com/apache/fineract/) ⭐ 2,603 | 🐛 93 | 🌐 Java | 📅 2026-11-06 - Apache Fineract: A Platform for Microfinance.
+* [Fineract](https://github.com/apache/fineract/) ⭐ 2,605 | 🐛 96 | 🌐 Java | 📅 2026-11-06 - Apache Fineract: A Platform for Microfinance.
 * [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
 
 #### Other
 
-* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,329 | 🐛 103 | 🌐 Zig | 📅 2026-11-06 - The distributed financial transactions database designed for mission critical safety and performance.
+* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,334 | 🐛 102 | 🌐 Zig | 📅 2026-11-06 - The distributed financial transactions database designed for mission critical safety and performance.
 * [micro-finance](https://github.com/MicroPyramid/micro-finance) ⭐ 94 | 🐛 2 | 🌐 Python | 📅 2026-01-20 - Free Micro Finance Software.
 * [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
 
@@ -191,9 +191,9 @@ This section collects open data sources (API endpoints) with data relevant direc
 Other awesome lists / resources that are more indirectly relevant for sustainable finance
 
 * [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) ⭐ 2,583 | 🐛 94 | 📅 2026-11-03 - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources
-* [Awesome Fintech](https://github.com/moov-io/awesome-fintech) ⭐ 399 | 🐛 1 | 📅 2026-10-26 - A curated collection of open source fintech libraries and resources.
+* [Awesome Fintech](https://github.com/moov-io/awesome-fintech) ⭐ 400 | 🐛 1 | 📅 2026-10-26 - A curated collection of open source fintech libraries and resources.
 * [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) ⭐ 172 | 🐛 0 | 📅 2026-11-05 - A collection of open source projects relevant for industrial ecology practitioners, hosted on GitHub and beyond
-* [Awesome Europe](https://github.com/GeiserX/awesome-europe) ⭐ 153 | 🐛 2 | 🌐 Python | 📅 2026-11-06 - A curated list of open source software for Europe: institutions, regulations, standards, and cross-border infrastructure
+* [Awesome Europe](https://github.com/GeiserX/awesome-europe) ⭐ 153 | 🐛 1 | 🌐 Python | 📅 2026-11-06 - A curated list of open source software for Europe: institutions, regulations, standards, and cross-border infrastructure
 * [Open Climate](https://github.com/Open-Earth-Foundation/OpenClimate) ⭐ 64 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-24 - Independent Climate Accounting Network in support of Paris Agreement goals
 * [climate econometrics](https://github.com/atrisovic/weather-panel.github.io/) ⭐ 46 | 🐛 19 | 🌐 MATLAB | 📅 2025-03-26 - This is a repository for a practical guide to climate econometrics available at climateestimate.net
 * [Climate Modeling](https://github.com/brian-rose/climlab) ⭐ 23 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-23 - Python package for process-oriented climate modeling
@@ -202,4 +202,4 @@ Other awesome lists / resources that are more indirectly relevant for sustainabl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
