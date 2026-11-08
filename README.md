@@ -51,7 +51,7 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 * [Equinox](https://github.com/open-risk/equinox) ⭐ 54 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-02 - Equinox is an open source platform that supports the holistic risk management of sustainable finance projects.
 * [open-climate-investing](https://github.com/opentaps/open-climate-investing) ⭐ 51 | 🐛 9 | 🌐 JavaScript | 📅 2022-10-20 - Application and data for analyzing and structuring portfolios for climate investing.
 * [PACTA](https://github.com/2DegreesInvesting/PACTA_analysis) ⚠️ Archived - Run the PACTA analysis on EQ & CB portfolios.
-* [climate-finance](https://github.com/ONEcampaign/climate-finance-package) ⭐ 15 | 🐛 19 | 🌐 Python | 📅 2026-11-07 - climate-finance is the python package to get, clean, and work with international public climate finance.
+* [climate-finance](https://github.com/ONEcampaign/climate-finance-package) ⭐ 15 | 🐛 13 | 🌐 Python | 📅 2026-11-08 - climate-finance is the python package to get, clean, and work with international public climate finance.
 * [r2dii.analysis](https://github.com/2DegreesInvesting/r2dii.analysis) ⚠️ Archived - Tools to Calculate Climate Targets for Financial Portfolios.
 * [OS-Climate](https://github.com/os-climate) - Open Source Solutions to Enable Climate-Smart Investing.
 * [ESG Reg Reporting](https://gitlab.com/finosfoundation/legend/reg-innovation/esg-reg-reporting) - A FINOS project to enable banks to consume 3rd party ESG data for the purposes of EU regulatory reporting.
@@ -65,9 +65,9 @@ Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly support
 * [openLCA](https://github.com/GreenDelta/olca-app) ⭐ 269 | 🐛 41 | 🌐 Java | 📅 2026-11-05 - Source code of openLCA
 * [pymrio](https://github.com/konstantinstadler/pymrio) ⭐ 226 | 🐛 41 | 🌐 Python | 📅 2026-10-22 - Multi-Regional Input-Output Analysis in Python.
 * [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) ⭐ 64 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-24 - A data utility for tracking climate action.
-* [MARIO](https://github.com/it-is-me-mario/MARIO) ⭐ 53 | 🐛 24 | 🌐 Python | 📅 2026-11-06 - Multifunctional Analysis of Regions through Input Output
+* [MARIO](https://github.com/it-is-me-mario/MARIO) ⭐ 53 | 🐛 24 | 🌐 Python | 📅 2026-11-08 - Multifunctional Analysis of Regions through Input Output
 * [pyLCAIO](https://github.com/MaximeAgez/pylcaio) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2025-07-28 - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.
-* [CityCatalyst](https://github.com/Open-Earth-Foundation/CityCatalyst) ⭐ 45 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-06 - Open Source carbon accounting for cities.
+* [CityCatalyst](https://github.com/Open-Earth-Foundation/CityCatalyst) ⭐ 45 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-07 - Open Source carbon accounting for cities.
 * [US EEIO](https://github.com/USEPA/useeior) ⭐ 39 | 🐛 15 | 🌐 R | 📅 2025-09-30 - An R package for building and using USEEIO models.
 * [pyspa](https://github.com/beyondepic/pyspa) ⭐ 31 | 🐛 2 | 🌐 HTML | 📅 2023-04-05 - A python package for conducting structural path analysis on square technological matrices of process or input-output data, using environmental, social and/or financial satellites
 * [AWS Sustainability Insights Framework (SIF)](https://github.com/aws-solutions-library-samples/guidance-for-aws-sustainability-insights-framework) ⚠️ Archived - The AWS Sustainability Insights Framework (SIF) offers foundational software components that accelerate the design and implementation of applications to automate carbon footprint tracking.
@@ -89,14 +89,14 @@ Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly support
 Integrated economic models (for macroeconomic scenarios)
 
 * [pyam](https://github.com/IAMconsortium/pyam) ⭐ 291 | 🐛 105 | 🌐 Python | 📅 2026-11-02 - Analysis & visualization of integrated-assessment and macro-energy scenarios.
-* [premise](https://github.com/polca/premise) ⭐ 192 | 🐛 23 | 🌐 Python | 📅 2026-11-06 - PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM).
+* [premise](https://github.com/polca/premise) ⭐ 192 | 🐛 23 | 🌐 Python | 📅 2026-11-08 - PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM).
 * [MessageIX](https://github.com/iiasa/message_ix) ⭐ 150 | 🐛 145 | 🌐 Jupyter Notebook | 📅 2026-11-07 - MESSAGEix is a versatile, dynamic, model framework for energy-engineering-economy-environment (E4) systems research.
 * [WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl) ⭐ 76 | 🐛 24 | 🌐 Julia | 📅 2024-05-25 - An open-source framework written in Julia for global integrated assessment models.
 * [mimi](https://github.com/mimiframework/Mimi.jl) ⭐ 72 | 🐛 75 | 🌐 Julia | 📅 2026-11-01 - Mimi is a Julia package that provides a component model for integrated assessment models.
 * [WITCH](https://github.com/witch-team/witchmodel) ⭐ 34 | 🐛 0 | 🌐 GAMS | 📅 2025-06-06 - World Induced Technical Change Hybrid model.
 * [DICE](https://github.com/psztorc/DICE) ⭐ 33 | 🐛 0 | 🌐 GAMS | 📅 2014-12-18 - Dynamic Integrated Climate-Economy Model of the Economics of Global Warming.
 * [python-DICE](https://github.com/Shivamshaiv/Python-DICE) ⭐ 24 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-07-17 - Python 3.6 implementation of Dynamic Integrated Climate-Economy (DICE).
-* [nomenclature](https://github.com/IAMconsortium/nomenclature) ⭐ 24 | 🐛 58 | 🌐 Python | 📅 2026-10-21 - Working with IAMC-format project definitions.
+* [nomenclature](https://github.com/IAMconsortium/nomenclature) ⭐ 24 | 🐛 59 | 🌐 Python | 📅 2026-11-07 - Working with IAMC-format project definitions.
 * [META](https://github.com/openmodels/META-2021) ⭐ 18 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-04-28 - The Model for Economic Tipping (point) Analysis
 * [IAMC Tools](https://github.com/IAMconsortium/iamc) ⭐ 14 | 🐛 1 | 🌐 R | 📅 2023-09-12 - A collection of R tools for data analysis and diagnostics.
 * [aneris](https://github.com/iiasa/aneris) ⭐ 5 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-03-27 - Harmonization of Emissions Trajectories for Integrated Assessment Models.
@@ -112,7 +112,7 @@ Models of economic networks and platforms supporting economic networks and payme
 
 ### Interledger
 
-* [rafiki](https://github.com/interledger/rafiki) ⭐ 361 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-07 - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
+* [rafiki](https://github.com/interledger/rafiki) ⭐ 361 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-07 - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
 * [interledger-rs](https://github.com/interledger/interledger-rs) ⭐ 207 | 🐛 88 | 🌐 Rust | 📅 2023-06-16 - An easy-to-use, high-performance Interledger implementation written in Rust
 * [web-monetization](https://github.com/interledger/web-monetization-extension) ⭐ 153 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-07 - An open-source browser extension that enables Web Monetization.
 
@@ -139,12 +139,12 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 #### Mifos
 
-* [Fineract](https://github.com/apache/fineract/) ⭐ 2,605 | 🐛 96 | 🌐 Java | 📅 2026-11-06 - Apache Fineract: A Platform for Microfinance.
+* [Fineract](https://github.com/apache/fineract/) ⭐ 2,609 | 🐛 101 | 🌐 Java | 📅 2026-11-06 - Apache Fineract: A Platform for Microfinance.
 * [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
 
 #### Other
 
-* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,334 | 🐛 102 | 🌐 Zig | 📅 2026-11-06 - The distributed financial transactions database designed for mission critical safety and performance.
+* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,341 | 🐛 102 | 🌐 Zig | 📅 2026-11-06 - The distributed financial transactions database designed for mission critical safety and performance.
 * [micro-finance](https://github.com/MicroPyramid/micro-finance) ⭐ 94 | 🐛 2 | 🌐 Python | 📅 2026-01-20 - Free Micro Finance Software.
 * [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
 
@@ -190,8 +190,8 @@ This section collects open data sources (API endpoints) with data relevant direc
 
 Other awesome lists / resources that are more indirectly relevant for sustainable finance
 
-* [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) ⭐ 2,583 | 🐛 94 | 📅 2026-11-03 - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources
-* [Awesome Fintech](https://github.com/moov-io/awesome-fintech) ⭐ 400 | 🐛 1 | 📅 2026-10-26 - A curated collection of open source fintech libraries and resources.
+* [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) ⭐ 2,583 | 🐛 96 | 📅 2026-11-08 - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources
+* [Awesome Fintech](https://github.com/moov-io/awesome-fintech) ⭐ 401 | 🐛 1 | 📅 2026-10-26 - A curated collection of open source fintech libraries and resources.
 * [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) ⭐ 172 | 🐛 0 | 📅 2026-11-05 - A collection of open source projects relevant for industrial ecology practitioners, hosted on GitHub and beyond
 * [Awesome Europe](https://github.com/GeiserX/awesome-europe) ⭐ 153 | 🐛 1 | 🌐 Python | 📅 2026-11-06 - A curated list of open source software for Europe: institutions, regulations, standards, and cross-border infrastructure
 * [Open Climate](https://github.com/Open-Earth-Foundation/OpenClimate) ⭐ 64 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-24 - Independent Climate Accounting Network in support of Paris Agreement goals
@@ -202,4 +202,4 @@ Other awesome lists / resources that are more indirectly relevant for sustainabl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
