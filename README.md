@@ -2,14 +2,14 @@
 
 # Awesome Sustainable Finance with stars
 
-A curated list of **Sustainable Finance** resources. Sustainable finance is here understood broadly, addressing both environmental and social issues.
+A curated list of **Sustainable Finance** resources. The term sustainable finance is here understood *broadly*, addressing both environmental and social issues.
 
 # Description
 
 The focus of the awesome sustainable finance list is:
 
 * **open source code** (software), whether this concerns *tools*, *libraries*, *frameworks* etc. that support any type of sustainable finance effort, and
-* **open data** that are useful in a sustainable finance context.
+* **open data** that are useful in a sustainable finance context, e.g., as inputs, reference data or other related role
 
 Are you interested to contribute to this collection of sustainable finance resources? [Here is how](CONTRIBUTING.md).
 
@@ -19,7 +19,7 @@ Image Credit: StarwallOfRadical.town, [CC BY-SA 4.0](https://creativecommons.org
 
 # Classification
 
-As the list grows we may introduce more / different sub-categories. The current classification is as follows:
+The following list shows the current classification scheme. As the list grows we may introduce more / different sub-categories.
 
 * [Open Source Frameworks](#open-source-frameworks)
   * [Climate Finance](#climate-finance)
@@ -43,11 +43,11 @@ As the list grows we may introduce more / different sub-categories. The current 
 
 # Open Source Frameworks
 
-This section focuses on projects  (Models and Tools) that are primarily code oriented (models, tools etc.). Projects are grouped by domain.
+This section focuses on software projects (*Models and Tools*) that are primarily code oriented. Projects are grouped by domain. The split is for practical reasons, there are various conceptual overlaps between domains. The progression is from the more directly relevant in financial context, to the more indirectly and supportive. The section of *related domains* links to other such broad catalogs of indirectly relevant tools.
 
 ## Climate Finance
 
-Frameworks and tools that are *directly* assisting the analysis of financial operations (e.g., transactions, securities, portfolios of contracts etc.) from a climate finance perspective
+Frameworks and tools that are *directly* assisting the analysis and management of financial operations (e.g., transactions, securities, portfolios of contracts etc.) from a *climate finance* perspective
 
 * [blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting) ⚠️ Archived - This project implements blockchain applications for climate action and accounting, including emissions calculations, carbon trading, and validation of climate claims. It is part of the Linux Foundation's Hyperledger Climate Action and Accounting SIG.
 * [SBTi Temperature Alignment tool](https://github.com/ScienceBasedTargets/SBTi-finance-tool) ⭐ 63 | 🐛 18 | 🌐 Python | 📅 2026-09-03 - This toolkit helps companies and financial institutions to assess the temperature alignment of current targets, commitments, and investment and lending portfolios, and to use this information to develop targets for official validation by the SBTi.
@@ -59,51 +59,29 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 * [ESG Reg Reporting](https://gitlab.com/finosfoundation/legend/reg-innovation/esg-reg-reporting) - A FINOS project to enable banks to consume 3rd party ESG data for the purposes of EU regulatory reporting.
 * [climate-finance](https://github.com/ONEcampaign/climate-finance-package) - climate-finance is the python package to get, clean, and work with international public climate finance.
 
-## Environmentally Extended Input Output Models
+## Biodiversity Finance
 
-EEIO Frameworks that are supporting climate finance through input-output analysis of economic systems. EEIO Databases are listed separately.
+* [riskmapjnr](https://github.com/ghislainv/riskmapjnr) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2024-07-12 - The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation
 
-* [pymrio](https://github.com/konstantinstadler/pymrio) ⭐ 227 | 🐛 41 | 🌐 Python | 📅 2026-10-22 - Multi-Regional Input-Output Analysis in Python.
-* [MARIO](https://github.com/it-is-me-mario/MARIO) ⭐ 54 | 🐛 24 | 🌐 Python | 📅 2026-11-18 - Multifunctional Analysis of Regions through Input Output
-* [pyLCAIO](https://github.com/MaximeAgez/pylcaio) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2025-07-28 - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.
-* [US EEIO](https://github.com/USEPA/useeior) ⭐ 39 | 🐛 15 | 🌐 R | 📅 2025-09-30 - An R package for building and using USEEIO models.
-* [pyspa](https://github.com/beyondepic/pyspa) ⭐ 31 | 🐛 2 | 🌐 HTML | 📅 2023-04-05 - A python package for conducting structural path analysis on square technological matrices of process or input-output data, using environmental, social and/or financial satellites
-* [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-11-16 - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
-* [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-11-16 - Module to create symmetric Environmentally Extended Input Output tables for Canada.
-* [iopy](https://github.com/WWakker/iopy) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-06-14 - Input-output data with Python.
-* [iomb](https://github.com/USEPA/IO-Model-Builder) ⚠️ Archived - Python Input-Output Model Builder.
-* [EXIOBASE-energy-accounts](https://github.com/Kajwan/EXIOBASE-energy-accounts) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-11-12 - Improving precision in an open-sourced procedure applicable to any MRIO database
-* [Leontief](https://github.com/open-risk/leontief) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-09-28 - Leontief is a C++ package to work with economic Input Output models
-* [cie-useeio-extensions](https://github.com/peterberr/cie-useeio-extensions) ⭐ 4 | 🐛 0 | 🌐 MATLAB | 📅 2019-11-27 - A repository for ongoing work at Yale Center for Industrial Ecology with collaborators to make extensions to USEEIO
-* [PyIO](https://real.illinois.edu/pyio/) - Python Module for Input-Output Analysis.
+## Economic Networks
 
-## Life Cycle Assessment
+Models of economic networks and platforms supporting economic networks and payment systems
 
-LCA Frameworks (LCA Models or Hybrid LCA-IO Models) that are supporting climate finance through life-cycle analysis of supply chains. LCA Databases are listed separately.
+* [Valueflows](https://codeberg.org/valueflows/valueflows) - Valueflows (VF) is a vocabulary for the distributed economic networks of the next economy, to coordinate the creation, distribution, and exchange of economic resources.
+* [GNU Taler](https://www.taler.net/en/development.html) - Privacy-preserving electronic payment system
+* [Bonfire Networks](https://github.com/bonfire-networks) - federated network for individuals and communities to design, operate and control their own digital lives
 
-* [openLCA](https://github.com/GreenDelta/olca-app) ⭐ 271 | 🐛 38 | 🌐 Java | 📅 2026-11-19 - Source code of openLCA
-* [Brightway](https://github.com/brightway-lca/brightway2) ⭐ 147 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2025-04-10 - Brightway2 is a framework for advanced life cycle assessment calculations
-* [Regioinvent](https://github.com/CIRAIG/Regioinvent) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2026-11-03 - Python class regionalizing processes from the ecoinvent database using trade date from the UN COMTRADE database and common sense
-* [ecospold2matrix](https://github.com/majeau-bettez/ecospold2matrix) ⭐ 21 | 🐛 8 | 🌐 Python | 📅 2022-12-16 - Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
-* [VoLCA](https://github.com/ccomb/volca) ⭐ 12 | 🐛 5 | 🌐 Haskell | 📅 2026-11-19 - Fast open-source LCA engine with API, Python library, CLI, MCP
+### Interledger
 
-## Other Carbon Footprint
-
-Specific carbon foot-printing methodologies (not EEIO or LCA frameworks)
-
-* [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) ⭐ 1,055 | 🐛 207 | 🌐 TypeScript | 📅 2026-04-23 - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
-* [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) ⭐ 64 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-24 - A data utility for tracking climate action.
-* [CityCatalyst](https://github.com/Open-Earth-Foundation/CityCatalyst) ⭐ 45 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-19 - Open Source carbon accounting for cities.
-* [AWS Sustainability Insights Framework (SIF)](https://github.com/aws-solutions-library-samples/guidance-for-aws-sustainability-insights-framework) ⚠️ Archived - The AWS Sustainability Insights Framework (SIF) offers foundational software components that accelerate the design and implementation of applications to automate carbon footprint tracking.
-* [emission budgets](https://github.com/floriandierickx/emission-budgets) ⭐ 11 | 🐛 7 | 🌐 Python | 📅 2026-04-24 - visualising country-specific carbon budgets
-* [Node Carbon](https://github.com/sumn2u/node-carbon) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-12-07 - A Node Package for Measuring Carbon Footprints.
-* [GHG Country Sector](https://github.com/martindaniel4/ghg_country_sector) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2020-10-18 - Visualization of Greenhouse Gas emissions by Country and Sector
+* [rafiki](https://github.com/interledger/rafiki) ⭐ 362 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-20 - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
+* [interledger-rs](https://github.com/interledger/interledger-rs) ⚠️ Archived - An easy-to-use, high-performance Interledger implementation written in Rust
+* [web-monetization](https://github.com/interledger/web-monetization-extension) ⭐ 153 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-20 - An open-source browser extension that enables Web Monetization.
 
 ## Integrated Assessment Models
 
-Integrated economic models (for macroeconomic scenarios)
+Integrated economic models (for macroeconomic scenarios) that integrate aspects of sustainability.
 
-* [pyam](https://github.com/IAMconsortium/pyam) ⭐ 292 | 🐛 106 | 🌐 Python | 📅 2026-11-14 - Analysis & visualization of integrated-assessment and macro-energy scenarios.
+* [pyam](https://github.com/IAMconsortium/pyam) ⭐ 292 | 🐛 109 | 🌐 Python | 📅 2026-11-14 - Analysis & visualization of integrated-assessment and macro-energy scenarios.
 * [premise](https://github.com/polca/premise) ⭐ 193 | 🐛 22 | 🌐 Python | 📅 2026-11-19 - PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM).
 * [MessageIX](https://github.com/iiasa/message_ix) ⭐ 151 | 🐛 145 | 🌐 Jupyter Notebook | 📅 2026-11-19 - MESSAGEix is a versatile, dynamic, model framework for energy-engineering-economy-environment (E4) systems research.
 * [WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl) ⭐ 77 | 🐛 24 | 🌐 Julia | 📅 2024-05-25 - An open-source framework written in Julia for global integrated assessment models.
@@ -117,49 +95,83 @@ Integrated economic models (for macroeconomic scenarios)
 * [aneris](https://github.com/iiasa/aneris) ⭐ 5 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-03-27 - Harmonization of Emissions Trajectories for Integrated Assessment Models.
 * [DICE++](https://github.com/swillner/dicepp) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2021-07-27 - C++-Implementation of the DICE Dynamic Integrated Climate-Economy Model of the Economics of Global Warming.
 
-## Economic Networks
+## Environmentally Extended Input Output Models
 
-Models of economic networks and platforms supporting economic networks and payment systems
+Environmentally Extended Input Output Models (EEIO) Frameworks that are supporting sustainable finance through input-output analysis of economic systems. NB: EEIO Databases are listed separately in the Open Data section.
 
-* [Valueflows](https://codeberg.org/valueflows/valueflows) - Valueflows (VF) is a vocabulary for the distributed economic networks of the next economy, to coordinate the creation, distribution, and exchange of economic resources.
-* [GNU Taler](https://www.taler.net/en/development.html) - Privacy-preserving electronic payment system
-* [Bonfire Networks](https://github.com/bonfire-networks) - federated network for individuals and communities to design, operate and control their own digital lives
+* [pymrio](https://github.com/konstantinstadler/pymrio) ⭐ 226 | 🐛 41 | 🌐 Python | 📅 2026-10-22 - Multi-Regional Input-Output Analysis in Python.
+* [MARIO](https://github.com/it-is-me-mario/MARIO) ⭐ 54 | 🐛 25 | 🌐 Python | 📅 2026-11-20 - Multifunctional Analysis of Regions through Input Output
+* [pyLCAIO](https://github.com/MaximeAgez/pylcaio) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2025-07-28 - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.
+* [US EEIO](https://github.com/USEPA/useeior) ⭐ 39 | 🐛 15 | 🌐 R | 📅 2025-09-30 - An R package for building and using USEEIO models.
+* [pyspa](https://github.com/beyondepic/pyspa) ⭐ 31 | 🐛 2 | 🌐 HTML | 📅 2023-04-05 - A python package for conducting structural path analysis on square technological matrices of process or input-output data, using environmental, social and/or financial satellites
+* [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-11-16 - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
+* [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-11-16 - Module to create symmetric Environmentally Extended Input Output tables for Canada.
+* [iopy](https://github.com/WWakker/iopy) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-06-14 - Input-output data with Python.
+* [iomb](https://github.com/USEPA/IO-Model-Builder) ⚠️ Archived - Python Input-Output Model Builder (DEPRECATED)
+* [PySUT](https://github.com/IndEcol/pySUT) ⭐ 15 | 🐛 3 | 🌐 Python | 📅 2021-08-19 - Python class for handling supply and use tables
+* [bquast/wiod](https://github.com/bquast/wiod) ⭐ 11 | 🐛 2 | 🌐 R | 📅 2026-01-11 - Data sets from the World Input Output database, for the years 1995-2011
+* [EXIOBASE-energy-accounts](https://github.com/Kajwan/EXIOBASE-energy-accounts) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-11-12 - Improving precision in an open-sourced procedure applicable to any MRIO database
+* [Leontief](https://github.com/open-risk/leontief) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-09-28 - Leontief is a C++ package to work with economic Input Output models
+* [matmat-ademe](https://github.com/AntoineTeixeira/matmat-ademe) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-09-22 - MatMat (Material Matrices) is a modular open-source Python framework for Environmentally-Extended Input-Output (EEIO) modelling and prospective environmental and socio-economic impact assessment.
+* [cie-useeio-extensions](https://github.com/peterberr/cie-useeio-extensions) ⭐ 4 | 🐛 0 | 🌐 MATLAB | 📅 2019-11-27 - A repository for ongoing work at Yale Center for Industrial Ecology with collaborators to make extensions to USEEIO
+* [WIOD\_SPA](https://github.com/martinbruckner/WIOD_SPA) ⭐ 4 | 🐛 0 | 🌐 R | 📅 2019-01-31 - Structural Path Analysis with WIOD
+* [usio](https://github.com/GreenDelta/usio) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2015-06-22 - This project provides scripts for creating an US input-output database for the use in openLCA.
+* [PyIO](https://real.illinois.edu/pyio/) - Python Module for Input-Output Analysis.
 
-### Interledger
+## Life Cycle Assessment
 
-* [rafiki](https://github.com/interledger/rafiki) ⭐ 363 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-19 - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
-* [interledger-rs](https://github.com/interledger/interledger-rs) ⚠️ Archived - An easy-to-use, high-performance Interledger implementation written in Rust
-* [web-monetization](https://github.com/interledger/web-monetization-extension) ⭐ 153 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-19 - An open-source browser extension that enables Web Monetization.
+LCA Frameworks (LCA Models or Hybrid LCA-IO Models) that are supporting climate finance through life-cycle analysis of supply chains. NB: LCA Databases are listed separately in the Open Data section.
 
-## Biodiversity Finance
+* [openLCA](https://github.com/GreenDelta/olca-app) ⭐ 272 | 🐛 32 | 🌐 Java | 📅 2026-11-20 - Source code of openLCA
+* [Brightway](https://github.com/brightway-lca/brightway2) ⭐ 147 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2025-04-10 - Brightway2 is a framework for advanced life cycle assessment calculations
+* [wurst](https://github.com/polca/wurst) ⭐ 47 | 🐛 3 | 🌐 Python | 📅 2025-11-09 - Code and metadata for linking life cycle assessment databases to other models
+* [Regioinvent](https://github.com/CIRAIG/Regioinvent) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2026-11-03 - Python class regionalizing processes from the ecoinvent database using trade date from the UN COMTRADE database and common sense
+* [lcopt-dev](https://github.com/pjamesjoyce/lcopt) ⭐ 24 | 🐛 18 | 🌐 JavaScript | 📅 2020-04-02 - Create foreground LCA models via an intuitive user interface and analyse them using Brightway2
+* [ecospold2matrix](https://github.com/majeau-bettez/ecospold2matrix) ⭐ 21 | 🐛 8 | 🌐 Python | 📅 2022-12-16 - Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
+* [ecospold2matrix](https://github.com/majeau-bettez/ecospold2matrix) ⭐ 21 | 🐛 8 | 🌐 Python | 📅 2022-12-16 - Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
+* [VoLCA](https://github.com/ccomb/volca) ⭐ 12 | 🐛 4 | 🌐 Haskell | 📅 2026-11-20 - Fast open-source LCA engine with API, Python library, CLI, MCP
+* [allocation\_construct.py](https://github.com/majeau-bettez/allocation_construct) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2017-03-26 - Python module for lifecycle assessment allocations and input-output constructs
 
-* [riskmapjnr](https://github.com/ghislainv/riskmapjnr) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2024-07-12 - The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation
+## Other Carbon Footprint
+
+Other specific carbon foot-printing methodologies (not EEIO or LCA framework related)
+
+* [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) ⭐ 1,054 | 🐛 207 | 🌐 TypeScript | 📅 2026-04-23 - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
+* [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) ⭐ 64 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-24 - A data utility for tracking climate action.
+* [CityCatalyst](https://github.com/Open-Earth-Foundation/CityCatalyst) ⭐ 45 | 🐛 59 | 🌐 TypeScript | 📅 2026-11-20 - Open Source carbon accounting for cities.
+* [AWS Sustainability Insights Framework (SIF)](https://github.com/aws-solutions-library-samples/guidance-for-aws-sustainability-insights-framework) ⚠️ Archived - The AWS Sustainability Insights Framework (SIF) offers foundational software components that accelerate the design and implementation of applications to automate carbon footprint tracking.
+* [emission budgets](https://github.com/floriandierickx/emission-budgets) ⭐ 11 | 🐛 7 | 🌐 Python | 📅 2026-04-24 - visualising country-specific carbon budgets
+* [Node Carbon](https://github.com/sumn2u/node-carbon) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-12-07 - A Node Package for Measuring Carbon Footprints.
+* [GHG Country Sector](https://github.com/martindaniel4/ghg_country_sector) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2020-10-18 - Visualization of Greenhouse Gas emissions by Country and Sector
 
 ## Circular Economy
 
-Models and Frameworks that indirectly support sustainable finance by helping track material flows and advancing the circular economy.
+Models and Frameworks that indirectly support sustainable finance by helping track *material flows* and advancing the *circular economy*.
 
 * [brightway-lca](https://github.com/brightway-lca/brightway2) ⭐ 147 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2025-04-10 - Brightway2 is a framework for advanced life cycle assessment calculations.
 * [ODYM](https://github.com/IndEcol/ODYM) ⭐ 106 | 🐛 7 | 🌐 Python | 📅 2025-09-26 - Open Dynamic Material Systems Model.
 * [PV ICE](https://github.com/NREL/PV_ICE) ⭐ 45 | 🐛 15 | 🌐 HTML | 📅 2026-11-10 - An open-source tool to quantify Solar Photovoltaics (PV) Energy and Mass Flows in the Circular Economy, from a Reliability and Lifetime approach.
+* [FLOWSA](https://github.com/USEPA/flowsa) ⭐ 35 | 🐛 26 | 🌐 Python | 📅 2026-01-09 - Library that attributes resource use, waste, emissions, and loss to economic sectors
 * [open supply chains](https://github.com/supplychainstudies/OpenSupplyChains) ⭐ 31 | 🐛 0 | 🌐 PHP | 📅 2020-04-01 - Open source codebase behind Sourcemap that allows anyone to visualize and analyze supply chains.
 * [Circular Economy Lifecycle Assessment and VIsualization (CELAVI) framework ](https://github.com/NREL/celavi) ⭐ 17 | 🐛 7 | 🌐 Python | 📅 2026-11-04 - Codebase for the Circular Economy Lifecycle Assessment and VIsualization (CELAVI) modeling framework.
+* [material-composition-lca](https://github.com/levonamatuni/material-composition-lca) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-03-26 - Estimating material composition of products using LCI databases
 * [pycirk](https://bitbucket.org/CML-IE/pycirk/src/master/) - A python package to model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis starting from SUTs.
+* [pymfa2](https://bitbucket.org/Xeelk/pymfa2/src/master/) - A probabilistic dynamic material flow analysis tool
 
 ## Social Finance
 
-MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. through financial inclusion and literacy tools and infrastructure
+Frameworks and tools that support the social pillar of sustainable finance, e.g. through *financial inclusion* and *financial literacy* tools.
 
 ### Financial Inclusion
 
 #### Mifos
 
-* [Fineract](https://github.com/apache/fineract/) ⭐ 2,636 | 🐛 156 | 🌐 Java | 📅 2026-11-19 - Apache Fineract: A Platform for Microfinance.
+* [Fineract](https://github.com/apache/fineract/) ⭐ 2,637 | 🐛 138 | 🌐 Java | 📅 2026-11-20 - Apache Fineract: A Platform for Microfinance.
 * [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
 
 #### Other
 
-* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,403 | 🐛 109 | 🌐 Zig | 📅 2026-11-11 - The distributed financial transactions database designed for mission-critical safety and performance.
+* [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,409 | 🐛 109 | 🌐 Zig | 📅 2026-11-11 - The distributed financial transactions database designed for mission-critical safety and performance.
 * [microfinance](https://github.com/MicroPyramid/micro-finance) ⭐ 94 | 🐛 2 | 🌐 Python | 📅 2026-01-20 - Free Micro Finance Software.
 * [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
 
@@ -173,7 +185,7 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 # Open Data
 
-This section collects open data sources (repositories or API endpoints) with data relevant directly or indirectly for sustainable finance workflows
+This section collects *open data* sources distributing data that are relevant directly or indirectly for sustainable finance workflows. Ideally we provide URL's and API endpoints where the data are accessible (with possible registration requirement)
 
 ## EEIO Databases
 
@@ -186,11 +198,12 @@ This section collects open data sources (repositories or API endpoints) with dat
 ## LCA Databases
 
 * [GLAD Elementary Flow Resources](https://github.com/UNEP-Economy-Division/GLAD-ElementaryFlowResources) ⭐ 42 | 🐛 9 | 📅 2026-11-16 - This is a repository for elementary flow lists, mapping files, and other resources pertinent to the Global LCA Data Access (GLAD) network initiative and data portal.
+* [IWP\_Reborn](https://github.com/CIRAIG/IWP_Reborn) ⭐ 18 | 🐛 3 | 🌐 Python | 📅 2026-09-29 - The rebirth of IMPACT World+ in a fully automated and transparent fashion.
 
 ## GHG Emissions
 
 * [FaIR](https://github.com/OMS-NetZero/FAIR) ⭐ 163 | 🐛 30 | 🌐 Python | 📅 2026-10-15 - FaIR (the Finite-amplitude Impulse-Response) climate model is a simple climate model, or emulator, useful for producing global mean temperature projections from a wide range of emissions or prescribed forcing scenarios
-* [openGHG](https://github.com/openghg/openghg) ⭐ 46 | 🐛 263 | 🌐 Python | 📅 2026-11-19 - A cloud platform for greenhouse gas (GHG) data analysis and collaboration.
+* [openGHG](https://github.com/openghg/openghg) ⭐ 46 | 🐛 256 | 🌐 Python | 📅 2026-11-20 - A cloud platform for greenhouse gas (GHG) data analysis and collaboration.
 * [climate\_categories](https://github.com/pik-primap/climate_categories) ⭐ 17 | 🐛 7 | 🌐 Python | 📅 2026-11-16 - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package.
 * [GHG Data](https://github.com/sphericalpm/ghgdata) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2017-10-31 - Greenhouse gas emissions data packaged for easy exploration and charting
 * [EDGAR](https://edgar.jrc.ec.europa.eu/emissions_data_and_maps) - European Commission Emissions Database for Global Atmospheric Research
@@ -202,11 +215,12 @@ This section collects open data sources (repositories or API endpoints) with dat
 
 ## Energy System
 
-* [electricityMap](https://github.com/electricitymap/electricitymap-contrib) ⭐ 4,056 | 🐛 155 | 🌐 Python | 📅 2026-11-19 - A real-time visualisation of the CO2 emissions of electricity consumption
-  * [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md) ⭐ 4,056 | 🐛 155 | 🌐 Python | 📅 2026-11-19
-* [PyPSA](https://github.com/PyPSA/PyPSA) ⭐ 2,247 | 🐛 178 | 🌐 Python | 📅 2026-11-19 - Python for Power System Analysis: an open-source toolbox for simulating and optimizing modern energy and power systems with variable renewable generation.
-* [Scafandre](https://github.com/hubblo-org/scaphandre) ⭐ 2,020 | 🐛 103 | 🌐 Rust | 📅 2026-07-19 - Energy consumption metrology agent.
-* [ETHOS.FINE](https://github.com/FZJ-IEK3-VSA/FINE) ⭐ 102 | 🐛 94 | 🌐 Python | 📅 2026-11-19 - Framework for Integrated Energy System Assessment
+* [electricityMap](https://github.com/electricitymap/electricitymap-contrib) ⭐ 4,055 | 🐛 90 | 🌐 Python | 📅 2026-11-20 - A real-time visualisation of the CO2 emissions of electricity consumption
+  * [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md) ⭐ 4,055 | 🐛 90 | 🌐 Python | 📅 2026-11-20
+* [PyPSA](https://github.com/PyPSA/PyPSA) ⭐ 2,250 | 🐛 175 | 🌐 Python | 📅 2026-11-20 - Python for Power System Analysis: an open-source toolbox for simulating and optimizing modern energy and power systems with variable renewable generation.
+* [Scafandre](https://github.com/hubblo-org/scaphandre) ⭐ 2,019 | 🐛 104 | 🌐 Rust | 📅 2026-07-19 - Energy consumption metrology agent.
+* [OEMOF](https://github.com/oemof/oemof) ⭐ 150 | 🐛 32 | 🌐 Python | 📅 2025-09-16 - Open Energy Modelling Framework - Python toolbox for energy system modelling and optimisation
+* [ETHOS.FINE](https://github.com/FZJ-IEK3-VSA/FINE) ⭐ 102 | 🐛 92 | 🌐 Python | 📅 2026-11-20 - Framework for Integrated Energy System Assessment
 * [gridemissions](https://github.com/jdechalendar/gridemissions) ⭐ 43 | 🐛 8 | 🌐 Python | 📅 2024-07-25 - The tools in this repository power the visualization at energy.stanford.edu/gridemissions
 * [GEM](https://www.gem.wiki/Main_Page) - GEM Wiki, the shared resource on all things energy: fossil fuels, renewable energy sources, environmental impacts, and the global movement to transition to a clean energy system
 * [Energy Access Explorer](https://github.com/energyaccessexplorer) - Online and interactive geospatial platform that enables energy planners, clean energy entrepreneurs, donors, and development institutions to identify high-priority areas for energy access interventions.
@@ -222,16 +236,18 @@ This section collects open data sources (repositories or API endpoints) with dat
 
 Other awesome lists / resources that are more indirectly relevant for sustainable finance
 
-* [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) ⭐ 2,588 | 🐛 96 | 📅 2026-11-12 - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources
+* [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) ⭐ 2,587 | 🐛 97 | 📅 2026-11-20 - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources
 * [Awesome Fintech](https://github.com/moov-io/awesome-fintech) ⭐ 407 | 🐛 2 | 📅 2026-11-16 - A curated collection of open source fintech libraries and resources.
 * [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) ⭐ 173 | 🐛 0 | 📅 2026-11-05 - A collection of open source projects relevant for industrial ecology practitioners, hosted on GitHub and beyond
 * [Awesome Europe](https://github.com/GeiserX/awesome-europe) ⭐ 159 | 🐛 1 | 🌐 Python | 📅 2026-11-17 - A curated list of open source software for Europe: institutions, regulations, standards, and cross-border infrastructure
 * [Open Climate](https://github.com/Open-Earth-Foundation/OpenClimate) ⭐ 64 | 🐛 58 | 🌐 TypeScript | 📅 2026-10-24 - Independent Climate Accounting Network in support of Paris Agreement goals
 * [climate econometrics](https://github.com/atrisovic/weather-panel.github.io/) ⭐ 46 | 🐛 19 | 🌐 MATLAB | 📅 2025-03-26 - This is a repository for a practical guide to climate econometrics available at climateestimate.net
+* [IE\_data\_commons](https://github.com/IndEcol/IE_data_commons) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2026-09-06 - Code and documentation for a commons of structured industrial ecology data
 * [Climate Modeling](https://github.com/brian-rose/climlab) ⭐ 23 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-23 - Python package for process-oriented climate modeling
 * [NTNU Course](https://github.com/iiasa/ntnu_iam_2022) ⭐ 6 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2022-05-02 - NTNU Integrated Assessment Modelling Course (2022)
+* [BONSAI](https://github.com/BONSAMURAIS) - An organisation dedicated to create and maintain a truly global Open Source Database for product footprinting
 * [Delightful Funding](https://delightful.coding.social/delightful-funding/) - A curated list of funding-related resources for FOSS, Open Data, Open Science projects and sustainable businesses.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

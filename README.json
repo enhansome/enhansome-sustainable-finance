@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "This section focuses on projects (Models and Tools) that are primarily code oriented (models, tools etc.). Projects are grouped by domain.",
+      "description": "This section focuses on software projects (Models and Tools) that are primarily code oriented. Projects are grouped by domain. The split is for practical reasons, there are various conceptual overlaps between domains. The progression is from the more directly relevant in financial context, to the more indirectly and supportive. The section of related domains links to other such broad catalogs of indirectly relevant tools.",
       "items": [
         {
           "children": [
@@ -177,7 +177,7 @@
               "first_seen": "2026-08-28T19:23:59.512Z"
             }
           ],
-          "description": "Frameworks and tools that are directly assisting the analysis of financial operations (e.g., transactions, securities, portfolios of contracts etc.) from a climate finance perspective",
+          "description": "Frameworks and tools that are directly assisting the analysis and management of financial operations (e.g., transactions, securities, portfolios of contracts etc.) from a climate finance perspective",
           "node_type": "group",
           "title": "Climate Finance"
         },
@@ -185,638 +185,144 @@
           "children": [
             {
               "node_type": "item",
-              "title": "pymrio",
-              "description": "Multi-Regional Input-Output Analysis in Python.",
+              "title": "riskmapjnr",
+              "description": "The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Multi-Regional Input-Output Analysis in Python.",
-                "homepage": "http://pymrio.readthedocs.io/en/latest/",
-                "id": 21688312,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-22T13:32:04Z",
-                "open_issues": 41,
-                "owner": "IndEcol",
-                "repo": "pymrio",
-                "stars": 227,
-                "topics": [
-                  "calculations",
-                  "input-output-analysis",
-                  "mrio",
-                  "python"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MARIO",
-              "description": "Multifunctional Analysis of Regions through Input Output",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Python framework for input-output and supply-use modelling, scenario analysis and environmental and socio-economic assessment.",
-                "homepage": "https://www.marioproject.com/en/latest/",
-                "id": 421900437,
+                "description": "📦🐍 Mapping deforestation risk following JNR methodology",
+                "homepage": "https://ecology.ghislainv.fr/riskmapjnr",
+                "id": 413038078,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T21:09:26Z",
-                "open_issues": 24,
-                "owner": "it-is-me-mario",
-                "repo": "MARIO",
-                "stars": 54,
-                "topics": [
-                  "industrial-ecology",
-                  "input-output-analysis",
-                  "mario-suite",
-                  "python",
-                  "scenario-analysis",
-                  "supply-use-tables"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pyLCAIO",
-              "description": "A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.",
-                "homepage": null,
-                "id": 176530642,
-                "language": "Python",
-                "license": "GPL-2.0",
-                "last_commit": "2025-07-28T22:10:18Z",
-                "open_issues": 0,
-                "owner": "MaximeAgez",
-                "repo": "pylcaio",
-                "stars": 48,
-                "topics": [
-                  "brightway2",
-                  "carbon-footprint",
-                  "database",
-                  "ecoinvent",
-                  "energy-consumption",
-                  "environmental-modelling",
-                  "exiobase",
-                  "industrial-ecology",
-                  "input-output",
-                  "life-cycle-assessment",
-                  "scientific-research",
-                  "water-footprint"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "US EEIO",
-              "description": "An R package for building and using USEEIO models.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Estimating potential environmental impacts of goods and services in the US economy",
-                "homepage": null,
-                "id": 221473707,
-                "language": "R",
-                "license": "MIT",
-                "last_commit": "2025-09-30T01:01:25Z",
-                "open_issues": 15,
-                "owner": "USEPA",
-                "repo": "useeior",
-                "stars": 39,
-                "topics": [
-                  "ord",
-                  "research"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pyspa",
-              "description": "A python package for conducting structural path analysis on square technological matrices of process or input-output data, using environmental, social and/or financial satellites",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A python package for conducting structural path analysis on square technological matrices of process or input-output data, using environmental, social and/or financial satellites",
-                "homepage": null,
-                "id": 184834302,
-                "language": "HTML",
-                "license": "GPL-3.0",
-                "last_commit": "2023-04-05T07:44:15Z",
-                "open_issues": 2,
-                "owner": "beyondepic",
-                "repo": "pyspa",
-                "stars": 31,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "OpenIO-Canada",
-              "description": "Module to create symmetric Environmentally Extended Input-Output tables for Canada.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Module to create symmetric Environmentally Extended Input-Output tables for Canada.",
-                "homepage": null,
-                "id": 294216692,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-11-16T22:31:30Z",
-                "open_issues": 2,
-                "owner": "CIRAIG",
-                "repo": "OpenIO-Canada",
-                "stars": 28,
-                "topics": [
-                  "canada",
-                  "carbon-footprint",
-                  "energy-consumption",
-                  "environmental-modelling",
-                  "industrial-ecology",
-                  "input-output-analysis",
-                  "water-footprint"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "OpenIO-Canada",
-              "description": "Module to create symmetric Environmentally Extended Input Output tables for Canada.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Module to create symmetric Environmentally Extended Input-Output tables for Canada.",
-                "homepage": null,
-                "id": 294216692,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-11-16T22:31:30Z",
-                "open_issues": 2,
-                "owner": "CIRAIG",
-                "repo": "OpenIO-Canada",
-                "stars": 28,
-                "topics": [
-                  "canada",
-                  "carbon-footprint",
-                  "energy-consumption",
-                  "environmental-modelling",
-                  "industrial-ecology",
-                  "input-output-analysis",
-                  "water-footprint"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "iopy",
-              "description": "Input-output data with Python.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Input-output data with Python",
-                "homepage": null,
-                "id": 592299779,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-06-14T21:24:34Z",
-                "open_issues": 0,
-                "owner": "WWakker",
-                "repo": "iotables",
-                "stars": 20,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "iomb",
-              "description": "Python Input-Output Model Builder.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "DEPRECATED - This repository is no longer being maintained and is available for reuse. Create environmentally extended input-output models",
-                "homepage": null,
-                "id": 62071639,
-                "language": "Jupyter Notebook",
-                "license": "NOASSERTION",
-                "last_commit": "2026-06-24T20:40:16Z",
-                "open_issues": 3,
-                "owner": "USEPA",
-                "repo": "IO-Model-Builder",
-                "stars": 16,
-                "topics": [
-                  "ord",
-                  "research"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EXIOBASE-energy-accounts",
-              "description": "Improving precision in an open-sourced procedure applicable to any MRIO database",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 861567352,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2024-11-12T08:05:52Z",
-                "open_issues": 0,
-                "owner": "Kajwan",
-                "repo": "EXIOBASE-energy-accounts",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Leontief",
-              "description": "Leontief is a C++ package to work with economic Input Output models",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Leontief is a C++ package to work with economic Input-Output models",
-                "homepage": "https://www.openriskmanagement.com/documentation/leontief/",
-                "id": 791800281,
-                "language": "C++",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-28T20:26:33Z",
-                "open_issues": 0,
-                "owner": "open-risk",
-                "repo": "leontief",
-                "stars": 5,
-                "topics": [
-                  "economic-data",
-                  "eigen",
-                  "exiobase",
-                  "figaro",
-                  "input-output-analysis",
-                  "leontief-input-output-model",
-                  "sustainable-finance"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "cie-useeio-extensions",
-              "description": "A repository for ongoing work at Yale Center for Industrial Ecology with collaborators to make extensions to USEEIO",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Methods and footprint results from endogenizing capital and other extensions to USSEIO ",
-                "homepage": null,
-                "id": 143012713,
-                "language": "MATLAB",
-                "license": null,
-                "last_commit": "2019-11-27T15:02:18Z",
-                "open_issues": 0,
-                "owner": "peterberr",
-                "repo": "cie-useeio-extensions",
-                "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            }
-          ],
-          "description": "EEIO Frameworks that are supporting climate finance through input-output analysis of economic systems. EEIO Databases are listed separately.",
-          "node_type": "group",
-          "title": "Environmentally Extended Input Output Models"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "openLCA",
-              "description": "Source code of openLCA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Source code of openLCA",
-                "homepage": "openlca.org",
-                "id": 12462033,
-                "language": "Java",
-                "license": "MPL-2.0",
-                "last_commit": "2026-11-19T16:04:30Z",
-                "open_issues": 38,
-                "owner": "GreenDelta",
-                "repo": "olca-app",
-                "stars": 271,
-                "topics": [
-                  "eclipse-rcp",
-                  "java",
-                  "openlca"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Brightway",
-              "description": "Brightway2 is a framework for advanced life cycle assessment calculations",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Metapackage for brightway2 imports and documentation",
-                "homepage": "https://brightway.dev/",
-                "id": 244450577,
-                "language": "Jupyter Notebook",
-                "license": "BSD-3-Clause",
-                "last_commit": "2025-04-10T21:07:28Z",
-                "open_issues": 25,
-                "owner": "brightway-lca",
-                "repo": "brightway2",
-                "stars": 147,
-                "topics": [
-                  "bw2",
-                  "documentation",
-                  "life-cycle-assessment",
-                  "python"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Regioinvent",
-              "description": "Python class regionalizing processes from the ecoinvent database using trade date from the UN COMTRADE database and common sense",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Python class regionalizing processes from the ecoinvent database using trade date from the UN COMTRADE database and common sense.",
-                "homepage": null,
-                "id": 782963163,
-                "language": "Python",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-11-03T20:41:45Z",
-                "open_issues": 3,
-                "owner": "CIRAIG",
-                "repo": "Regioinvent",
-                "stars": 28,
-                "topics": [
-                  "brightway2",
-                  "comtrade",
-                  "ecoinvent",
-                  "environmental-modelling",
-                  "industrial-ecology",
-                  "life-cycle-assessment",
-                  "regionalization"
-                ]
-              },
-              "first_seen": "2026-11-09T17:24:05.091Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ecospold2matrix",
-              "description": "Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables",
-                "homepage": null,
-                "id": 26549388,
-                "language": "Python",
-                "license": "BSD-2-Clause",
-                "last_commit": "2022-12-16T14:55:48Z",
-                "open_issues": 8,
-                "owner": "majeau-bettez",
-                "repo": "ecospold2matrix",
-                "stars": 21,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "VoLCA",
-              "description": "Fast open-source LCA engine with API, Python library, CLI, MCP",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Fast open-source LCA engine with API, Python library, CLI, MCP.",
-                "homepage": "https://volca.run",
-                "id": 1095309995,
-                "language": "Haskell",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-19T14:13:05Z",
-                "open_issues": 5,
-                "owner": "ccomb",
-                "repo": "volca",
-                "stars": 12,
-                "topics": [
-                  "api",
-                  "environmental-data",
-                  "haskell",
-                  "lca",
-                  "lci",
-                  "lcia",
-                  "life-cycle-assessment",
-                  "mcp",
-                  "open-source",
-                  "python",
-                  "sustainability"
-                ]
-              },
-              "first_seen": "2026-11-09T17:24:05.091Z"
-            }
-          ],
-          "description": "LCA Frameworks (LCA Models or Hybrid LCA-IO Models) that are supporting climate finance through life-cycle analysis of supply chains. LCA Databases are listed separately.",
-          "node_type": "group",
-          "title": "Life Cycle Assessment"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Cloud Carbon Footprint",
-              "description": "Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage",
-                "homepage": "https://cloudcarbonfootprint.org",
-                "id": 313740591,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-04-23T09:45:56Z",
-                "open_issues": 207,
-                "owner": "cloud-carbon-footprint",
-                "repo": "cloud-carbon-footprint",
-                "stars": 1055,
-                "topics": [
-                  "carbon-emissions",
-                  "carbon-footprint",
-                  "climate",
-                  "cloud",
-                  "hacktoberfest",
-                  "sustainability",
-                  "thoughtworks"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "OpenClimate",
-              "description": "A data utility for tracking climate action.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A data utility for tracking climate action",
-                "homepage": "https://openclimate.network/",
-                "id": 409710236,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-24T13:14:18Z",
-                "open_issues": 58,
-                "owner": "Open-Earth-Foundation",
-                "repo": "OpenClimate",
-                "stars": 64,
-                "topics": [
-                  "api",
-                  "climate",
-                  "climate-action",
-                  "climate-change",
-                  "climate-change-api",
-                  "climate-data",
-                  "climate-targets",
-                  "climatechange",
-                  "nodejs-api",
-                  "open-data",
-                  "reactjs-app",
-                  "sustainability"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CityCatalyst",
-              "description": "Open Source carbon accounting for cities.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The open-source climate journey platform for cities — from measuring emissions to unlocking climate finance. AI-assisted.",
-                "homepage": "citycatalyst.openearth.org",
-                "id": 639568639,
-                "language": "TypeScript",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-11-19T16:10:06Z",
-                "open_issues": 60,
-                "owner": "Open-Earth-Foundation",
-                "repo": "CityCatalyst",
-                "stars": 45,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "AWS Sustainability Insights Framework (SIF)",
-              "description": "The AWS Sustainability Insights Framework (SIF) offers foundational software components that accelerate the design and implementation of applications to automate carbon footprint tracking.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "This Guidance demonstrates how you can automate your carbon footprint tracking with the Sustainability Insights Framework (SIF) on AWS",
-                "homepage": "https://aws.amazon.com/solutions/guidance/sustainability-insights-framework-on-aws/",
-                "id": 602232872,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-01T15:00:08Z",
-                "open_issues": 5,
-                "owner": "aws-solutions-library-samples",
-                "repo": "guidance-for-aws-sustainability-insights-framework",
+                "last_commit": "2024-07-12T23:38:02Z",
+                "open_issues": 1,
+                "owner": "ghislainv",
+                "repo": "riskmapjnr",
                 "stars": 29,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "emission budgets",
-              "description": "visualising country-specific carbon budgets",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "visualising country-specific carbon budgets ",
-                "homepage": "https://emission-budgets-master-02be942.kuberns.cloud",
-                "id": 211486285,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-04-24T19:52:05Z",
-                "open_issues": 7,
-                "owner": "floriandierickx",
-                "repo": "emission-budgets",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Node Carbon",
-              "description": "A Node Package for Measuring Carbon Footprints.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Calculate carbon footprints of current node process.",
-                "homepage": null,
-                "id": 722374671,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2023-12-07T15:59:38Z",
-                "open_issues": 0,
-                "owner": "sumn2u",
-                "repo": "node-carbon",
-                "stars": 2,
                 "topics": [
-                  "carbon-footprint",
-                  "cpu-usage",
-                  "memory-usage",
-                  "node",
-                  "node-process",
-                  "nodejs"
+                  "climate-change-mitigation",
+                  "co2-emissions",
+                  "deforestation-risk",
+                  "forest-conservation",
+                  "jurisdictional-and-nested-redd",
+                  "verified-carbon-standard"
                 ]
-              },
-              "first_seen": "2026-08-28T19:23:59.512Z"
-            },
-            {
-              "node_type": "item",
-              "title": "GHG Country Sector",
-              "description": "Visualization of Greenhouse Gas emissions by Country and Sector",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Visualization of Greenhouse Gas emissions by Country and Sector",
-                "homepage": null,
-                "id": 305130162,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2020-10-18T15:15:55Z",
-                "open_issues": 0,
-                "owner": "martindaniel4",
-                "repo": "ghg_country_sector",
-                "stars": 1,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:23:59.512Z"
             }
           ],
-          "description": "Specific carbon foot-printing methodologies (not EEIO or LCA frameworks)",
+          "description": null,
           "node_type": "group",
-          "title": "Other Carbon Footprint"
+          "title": "Biodiversity Finance"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "rafiki",
+                  "description": "An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.",
+                    "homepage": "https://rafiki.dev/",
+                    "id": 357309038,
+                    "language": "TypeScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-20T10:11:42Z",
+                    "open_issues": 52,
+                    "owner": "interledger",
+                    "repo": "rafiki",
+                    "stars": 362,
+                    "topics": [
+                      "digital-public-goods",
+                      "dpg",
+                      "ilp",
+                      "interledger",
+                      "rafiki",
+                      "sdg-10",
+                      "sdg-17",
+                      "sdg-8",
+                      "sdg-9",
+                      "webmonetization"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T19:23:59.512Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "interledger-rs",
+                  "description": "An easy-to-use, high-performance Interledger implementation written in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "An easy-to-use, high-performance Interledger implementation written in Rust",
+                    "homepage": "http://interledger.rs",
+                    "id": 96478880,
+                    "language": "Rust",
+                    "license": "NOASSERTION",
+                    "last_commit": "2023-06-16T05:31:55Z",
+                    "open_issues": 88,
+                    "owner": "interledger",
+                    "repo": "interledger-rs",
+                    "stars": 207,
+                    "topics": [
+                      "bitcoin",
+                      "blockchain",
+                      "ethereum",
+                      "ilp",
+                      "interledger",
+                      "interoperability",
+                      "lightning",
+                      "micropayments",
+                      "nanopayments",
+                      "payment",
+                      "rust",
+                      "streaming",
+                      "xrp"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T19:23:59.512Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "web-monetization",
+                  "description": "An open-source browser extension that enables Web Monetization.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Browser extension that enables Web Monetization using Open Payments standard.",
+                    "homepage": null,
+                    "id": 671063129,
+                    "language": "TypeScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-20T14:44:35Z",
+                    "open_issues": 24,
+                    "owner": "interledger",
+                    "repo": "web-monetization-extension",
+                    "stars": 153,
+                    "topics": [
+                      "hacktoberfest",
+                      "ilp",
+                      "interledger",
+                      "open-payments",
+                      "web-monetization"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T19:23:59.512Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Interledger"
+            }
+          ],
+          "description": "Models of economic networks and platforms supporting economic networks and payment systems",
+          "node_type": "group",
+          "title": "Economic Networks"
         },
         {
           "children": [
@@ -833,7 +339,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-14T03:24:53Z",
-                "open_issues": 106,
+                "open_issues": 109,
                 "owner": "IAMconsortium",
                 "repo": "pyam",
                 "stars": 292,
@@ -1151,152 +657,841 @@
               "first_seen": "2026-08-28T19:23:59.512Z"
             }
           ],
-          "description": "Integrated economic models (for macroeconomic scenarios)",
+          "description": "Integrated economic models (for macroeconomic scenarios) that integrate aspects of sustainability.",
           "node_type": "group",
           "title": "Integrated Assessment Models"
         },
         {
           "children": [
             {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "rafiki",
-                  "description": "An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.",
-                    "homepage": "https://rafiki.dev/",
-                    "id": 357309038,
-                    "language": "TypeScript",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T08:41:07Z",
-                    "open_issues": 52,
-                    "owner": "interledger",
-                    "repo": "rafiki",
-                    "stars": 363,
-                    "topics": [
-                      "digital-public-goods",
-                      "dpg",
-                      "ilp",
-                      "interledger",
-                      "rafiki",
-                      "sdg-10",
-                      "sdg-17",
-                      "sdg-8",
-                      "sdg-9",
-                      "webmonetization"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:23:59.512Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "interledger-rs",
-                  "description": "An easy-to-use, high-performance Interledger implementation written in Rust",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "An easy-to-use, high-performance Interledger implementation written in Rust",
-                    "homepage": "http://interledger.rs",
-                    "id": 96478880,
-                    "language": "Rust",
-                    "license": "NOASSERTION",
-                    "last_commit": "2023-06-16T05:31:55Z",
-                    "open_issues": 88,
-                    "owner": "interledger",
-                    "repo": "interledger-rs",
-                    "stars": 207,
-                    "topics": [
-                      "bitcoin",
-                      "blockchain",
-                      "ethereum",
-                      "ilp",
-                      "interledger",
-                      "interoperability",
-                      "lightning",
-                      "micropayments",
-                      "nanopayments",
-                      "payment",
-                      "rust",
-                      "streaming",
-                      "xrp"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:23:59.512Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "web-monetization",
-                  "description": "An open-source browser extension that enables Web Monetization.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Browser extension that enables Web Monetization using Open Payments standard.",
-                    "homepage": null,
-                    "id": 671063129,
-                    "language": "TypeScript",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T00:20:03Z",
-                    "open_issues": 24,
-                    "owner": "interledger",
-                    "repo": "web-monetization-extension",
-                    "stars": 153,
-                    "topics": [
-                      "hacktoberfest",
-                      "ilp",
-                      "interledger",
-                      "open-payments",
-                      "web-monetization"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T19:23:59.512Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "Interledger"
+              "node_type": "item",
+              "title": "pymrio",
+              "description": "Multi-Regional Input-Output Analysis in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Multi-Regional Input-Output Analysis in Python.",
+                "homepage": "http://pymrio.readthedocs.io/en/latest/",
+                "id": 21688312,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-22T13:32:04Z",
+                "open_issues": 41,
+                "owner": "IndEcol",
+                "repo": "pymrio",
+                "stars": 226,
+                "topics": [
+                  "calculations",
+                  "input-output-analysis",
+                  "mrio",
+                  "python"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MARIO",
+              "description": "Multifunctional Analysis of Regions through Input Output",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python framework for input-output and supply-use modelling, scenario analysis and environmental and socio-economic assessment.",
+                "homepage": "https://www.marioproject.com/en/latest/",
+                "id": 421900437,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-20T13:35:55Z",
+                "open_issues": 25,
+                "owner": "it-is-me-mario",
+                "repo": "MARIO",
+                "stars": 54,
+                "topics": [
+                  "industrial-ecology",
+                  "input-output-analysis",
+                  "mario-suite",
+                  "python",
+                  "scenario-analysis",
+                  "supply-use-tables"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pyLCAIO",
+              "description": "A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.",
+                "homepage": null,
+                "id": 176530642,
+                "language": "Python",
+                "license": "GPL-2.0",
+                "last_commit": "2025-07-28T22:10:18Z",
+                "open_issues": 0,
+                "owner": "MaximeAgez",
+                "repo": "pylcaio",
+                "stars": 48,
+                "topics": [
+                  "brightway2",
+                  "carbon-footprint",
+                  "database",
+                  "ecoinvent",
+                  "energy-consumption",
+                  "environmental-modelling",
+                  "exiobase",
+                  "industrial-ecology",
+                  "input-output",
+                  "life-cycle-assessment",
+                  "scientific-research",
+                  "water-footprint"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "US EEIO",
+              "description": "An R package for building and using USEEIO models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Estimating potential environmental impacts of goods and services in the US economy",
+                "homepage": null,
+                "id": 221473707,
+                "language": "R",
+                "license": "MIT",
+                "last_commit": "2025-09-30T01:01:25Z",
+                "open_issues": 15,
+                "owner": "USEPA",
+                "repo": "useeior",
+                "stars": 39,
+                "topics": [
+                  "ord",
+                  "research"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pyspa",
+              "description": "A python package for conducting structural path analysis on square technological matrices of process or input-output data, using environmental, social and/or financial satellites",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A python package for conducting structural path analysis on square technological matrices of process or input-output data, using environmental, social and/or financial satellites",
+                "homepage": null,
+                "id": 184834302,
+                "language": "HTML",
+                "license": "GPL-3.0",
+                "last_commit": "2023-04-05T07:44:15Z",
+                "open_issues": 2,
+                "owner": "beyondepic",
+                "repo": "pyspa",
+                "stars": 31,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OpenIO-Canada",
+              "description": "Module to create symmetric Environmentally Extended Input-Output tables for Canada.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Module to create symmetric Environmentally Extended Input-Output tables for Canada.",
+                "homepage": null,
+                "id": 294216692,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-16T22:31:30Z",
+                "open_issues": 2,
+                "owner": "CIRAIG",
+                "repo": "OpenIO-Canada",
+                "stars": 28,
+                "topics": [
+                  "canada",
+                  "carbon-footprint",
+                  "energy-consumption",
+                  "environmental-modelling",
+                  "industrial-ecology",
+                  "input-output-analysis",
+                  "water-footprint"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OpenIO-Canada",
+              "description": "Module to create symmetric Environmentally Extended Input Output tables for Canada.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Module to create symmetric Environmentally Extended Input-Output tables for Canada.",
+                "homepage": null,
+                "id": 294216692,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-16T22:31:30Z",
+                "open_issues": 2,
+                "owner": "CIRAIG",
+                "repo": "OpenIO-Canada",
+                "stars": 28,
+                "topics": [
+                  "canada",
+                  "carbon-footprint",
+                  "energy-consumption",
+                  "environmental-modelling",
+                  "industrial-ecology",
+                  "input-output-analysis",
+                  "water-footprint"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "iopy",
+              "description": "Input-output data with Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Input-output data with Python",
+                "homepage": null,
+                "id": 592299779,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-14T21:24:34Z",
+                "open_issues": 0,
+                "owner": "WWakker",
+                "repo": "iotables",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "iomb",
+              "description": "Python Input-Output Model Builder (DEPRECATED)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "DEPRECATED - This repository is no longer being maintained and is available for reuse. Create environmentally extended input-output models",
+                "homepage": null,
+                "id": 62071639,
+                "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
+                "last_commit": "2026-06-24T20:40:16Z",
+                "open_issues": 3,
+                "owner": "USEPA",
+                "repo": "IO-Model-Builder",
+                "stars": 16,
+                "topics": [
+                  "ord",
+                  "research"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PySUT",
+              "description": "Python class for handling supply and use tables",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python class for handling supply and use tables",
+                "homepage": null,
+                "id": 24422840,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2021-08-19T10:32:06Z",
+                "open_issues": 3,
+                "owner": "IndEcol",
+                "repo": "pySUT",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T16:03:27.561Z"
+            },
+            {
+              "node_type": "item",
+              "title": "bquast/wiod",
+              "description": "Data sets from the World Input Output database, for the years 1995-2011",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Data sets from the World Input Output database, for the years 1995-2011",
+                "homepage": null,
+                "id": 37073474,
+                "language": "R",
+                "license": null,
+                "last_commit": "2026-01-11T08:44:49Z",
+                "open_issues": 2,
+                "owner": "bquast",
+                "repo": "wiod",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T16:03:27.561Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EXIOBASE-energy-accounts",
+              "description": "Improving precision in an open-sourced procedure applicable to any MRIO database",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 861567352,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2024-11-12T08:05:52Z",
+                "open_issues": 0,
+                "owner": "Kajwan",
+                "repo": "EXIOBASE-energy-accounts",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Leontief",
+              "description": "Leontief is a C++ package to work with economic Input Output models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Leontief is a C++ package to work with economic Input-Output models",
+                "homepage": "https://www.openriskmanagement.com/documentation/leontief/",
+                "id": 791800281,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-28T20:26:33Z",
+                "open_issues": 0,
+                "owner": "open-risk",
+                "repo": "leontief",
+                "stars": 5,
+                "topics": [
+                  "economic-data",
+                  "eigen",
+                  "exiobase",
+                  "figaro",
+                  "input-output-analysis",
+                  "leontief-input-output-model",
+                  "sustainable-finance"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "matmat-ademe",
+              "description": "MatMat (Material Matrices) is a modular open-source Python framework for Environmentally-Extended Input-Output (EEIO) modelling and prospective environmental and socio-economic impact assessment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1271071226,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-22T07:41:25Z",
+                "open_issues": 0,
+                "owner": "AntoineTeixeira",
+                "repo": "matmat-ademe",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T16:03:27.561Z"
+            },
+            {
+              "node_type": "item",
+              "title": "cie-useeio-extensions",
+              "description": "A repository for ongoing work at Yale Center for Industrial Ecology with collaborators to make extensions to USEEIO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Methods and footprint results from endogenizing capital and other extensions to USSEIO ",
+                "homepage": null,
+                "id": 143012713,
+                "language": "MATLAB",
+                "license": null,
+                "last_commit": "2019-11-27T15:02:18Z",
+                "open_issues": 0,
+                "owner": "peterberr",
+                "repo": "cie-useeio-extensions",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WIOD_SPA",
+              "description": "Structural Path Analysis with WIOD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Structural Path Analysis with WIOD",
+                "homepage": null,
+                "id": 155094526,
+                "language": "R",
+                "license": "GPL-3.0",
+                "last_commit": "2019-01-31T15:34:51Z",
+                "open_issues": 0,
+                "owner": "martinbruckner",
+                "repo": "WIOD_SPA",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T16:03:27.561Z"
+            },
+            {
+              "node_type": "item",
+              "title": "usio",
+              "description": "This project provides scripts for creating an US input-output database for the use in openLCA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 26804269,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2015-06-22T14:17:36Z",
+                "open_issues": 0,
+                "owner": "GreenDelta",
+                "repo": "usio",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T16:03:27.561Z"
             }
           ],
-          "description": "Models of economic networks and platforms supporting economic networks and payment systems",
+          "description": "Environmentally Extended Input Output Models (EEIO) Frameworks that are supporting sustainable finance through input-output analysis of economic systems. NB: EEIO Databases are listed separately in the Open Data section.",
           "node_type": "group",
-          "title": "Economic Networks"
+          "title": "Environmentally Extended Input Output Models"
         },
         {
           "children": [
             {
               "node_type": "item",
-              "title": "riskmapjnr",
-              "description": "The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation",
+              "title": "openLCA",
+              "description": "Source code of openLCA",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "📦🐍 Mapping deforestation risk following JNR methodology",
-                "homepage": "https://ecology.ghislainv.fr/riskmapjnr",
-                "id": 413038078,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2024-07-12T23:38:02Z",
-                "open_issues": 1,
-                "owner": "ghislainv",
-                "repo": "riskmapjnr",
-                "stars": 29,
+                "description": "Source code of openLCA",
+                "homepage": "openlca.org",
+                "id": 12462033,
+                "language": "Java",
+                "license": "MPL-2.0",
+                "last_commit": "2026-11-20T12:29:16Z",
+                "open_issues": 32,
+                "owner": "GreenDelta",
+                "repo": "olca-app",
+                "stars": 272,
                 "topics": [
-                  "climate-change-mitigation",
-                  "co2-emissions",
-                  "deforestation-risk",
-                  "forest-conservation",
-                  "jurisdictional-and-nested-redd",
-                  "verified-carbon-standard"
+                  "eclipse-rcp",
+                  "java",
+                  "openlca"
                 ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Brightway",
+              "description": "Brightway2 is a framework for advanced life cycle assessment calculations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Metapackage for brightway2 imports and documentation",
+                "homepage": "https://brightway.dev/",
+                "id": 244450577,
+                "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
+                "last_commit": "2025-04-10T21:07:28Z",
+                "open_issues": 25,
+                "owner": "brightway-lca",
+                "repo": "brightway2",
+                "stars": 147,
+                "topics": [
+                  "bw2",
+                  "documentation",
+                  "life-cycle-assessment",
+                  "python"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "wurst",
+              "description": "Code and metadata for linking life cycle assessment databases to other models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code and metadata for linking life cycle assessment databases to other models",
+                "homepage": null,
+                "id": 73196654,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2025-11-09T19:52:44Z",
+                "open_issues": 3,
+                "owner": "polca",
+                "repo": "wurst",
+                "stars": 47,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T16:03:27.561Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Regioinvent",
+              "description": "Python class regionalizing processes from the ecoinvent database using trade date from the UN COMTRADE database and common sense",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python class regionalizing processes from the ecoinvent database using trade date from the UN COMTRADE database and common sense.",
+                "homepage": null,
+                "id": 782963163,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-11-03T20:41:45Z",
+                "open_issues": 3,
+                "owner": "CIRAIG",
+                "repo": "Regioinvent",
+                "stars": 28,
+                "topics": [
+                  "brightway2",
+                  "comtrade",
+                  "ecoinvent",
+                  "environmental-modelling",
+                  "industrial-ecology",
+                  "life-cycle-assessment",
+                  "regionalization"
+                ]
+              },
+              "first_seen": "2026-11-09T17:24:05.091Z"
+            },
+            {
+              "node_type": "item",
+              "title": "lcopt-dev",
+              "description": "Create foreground LCA models via an intuitive user interface and analyse them using Brightway2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Create foreground LCA models via an intuitive user interface and analyse them using Brightway2",
+                "homepage": null,
+                "id": 76573839,
+                "language": "JavaScript",
+                "license": "BSD-3-Clause",
+                "last_commit": "2020-04-02T09:53:08Z",
+                "open_issues": 18,
+                "owner": "pjamesjoyce",
+                "repo": "lcopt",
+                "stars": 24,
+                "topics": [
+                  "brightway2",
+                  "foreground-models",
+                  "gui",
+                  "lca",
+                  "python"
+                ]
+              },
+              "first_seen": "2026-11-20T16:03:27.561Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ecospold2matrix",
+              "description": "Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables",
+                "homepage": null,
+                "id": 26549388,
+                "language": "Python",
+                "license": "BSD-2-Clause",
+                "last_commit": "2022-12-16T14:55:48Z",
+                "open_issues": 8,
+                "owner": "majeau-bettez",
+                "repo": "ecospold2matrix",
+                "stars": 21,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ecospold2matrix",
+              "description": "Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables",
+                "homepage": null,
+                "id": 26549388,
+                "language": "Python",
+                "license": "BSD-2-Clause",
+                "last_commit": "2022-12-16T14:55:48Z",
+                "open_issues": 8,
+                "owner": "majeau-bettez",
+                "repo": "ecospold2matrix",
+                "stars": 21,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VoLCA",
+              "description": "Fast open-source LCA engine with API, Python library, CLI, MCP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fast open-source LCA engine with API, Python library, CLI, MCP.",
+                "homepage": "https://volca.run",
+                "id": 1095309995,
+                "language": "Haskell",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-20T11:28:09Z",
+                "open_issues": 4,
+                "owner": "ccomb",
+                "repo": "volca",
+                "stars": 12,
+                "topics": [
+                  "api",
+                  "environmental-data",
+                  "haskell",
+                  "lca",
+                  "lci",
+                  "lcia",
+                  "life-cycle-assessment",
+                  "mcp",
+                  "open-source",
+                  "python",
+                  "sustainability"
+                ]
+              },
+              "first_seen": "2026-11-09T17:24:05.091Z"
+            },
+            {
+              "node_type": "item",
+              "title": "allocation_construct.py",
+              "description": "Python module for lifecycle assessment allocations and input-output constructs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Python module for lifecycle assessment allocations and input-output constructs",
+                "homepage": null,
+                "id": 25177659,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2017-03-26T05:07:35Z",
+                "open_issues": 0,
+                "owner": "majeau-bettez",
+                "repo": "allocation_construct",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T16:03:27.561Z"
+            }
+          ],
+          "description": "LCA Frameworks (LCA Models or Hybrid LCA-IO Models) that are supporting climate finance through life-cycle analysis of supply chains. NB: LCA Databases are listed separately in the Open Data section.",
+          "node_type": "group",
+          "title": "Life Cycle Assessment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cloud Carbon Footprint",
+              "description": "Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage",
+                "homepage": "https://cloudcarbonfootprint.org",
+                "id": 313740591,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-23T09:45:56Z",
+                "open_issues": 207,
+                "owner": "cloud-carbon-footprint",
+                "repo": "cloud-carbon-footprint",
+                "stars": 1054,
+                "topics": [
+                  "carbon-emissions",
+                  "carbon-footprint",
+                  "climate",
+                  "cloud",
+                  "hacktoberfest",
+                  "sustainability",
+                  "thoughtworks"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OpenClimate",
+              "description": "A data utility for tracking climate action.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A data utility for tracking climate action",
+                "homepage": "https://openclimate.network/",
+                "id": 409710236,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-24T13:14:18Z",
+                "open_issues": 58,
+                "owner": "Open-Earth-Foundation",
+                "repo": "OpenClimate",
+                "stars": 64,
+                "topics": [
+                  "api",
+                  "climate",
+                  "climate-action",
+                  "climate-change",
+                  "climate-change-api",
+                  "climate-data",
+                  "climate-targets",
+                  "climatechange",
+                  "nodejs-api",
+                  "open-data",
+                  "reactjs-app",
+                  "sustainability"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CityCatalyst",
+              "description": "Open Source carbon accounting for cities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The open-source climate journey platform for cities — from measuring emissions to unlocking climate finance. AI-assisted.",
+                "homepage": "citycatalyst.openearth.org",
+                "id": 639568639,
+                "language": "TypeScript",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-11-20T15:58:58Z",
+                "open_issues": 59,
+                "owner": "Open-Earth-Foundation",
+                "repo": "CityCatalyst",
+                "stars": 45,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AWS Sustainability Insights Framework (SIF)",
+              "description": "The AWS Sustainability Insights Framework (SIF) offers foundational software components that accelerate the design and implementation of applications to automate carbon footprint tracking.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "This Guidance demonstrates how you can automate your carbon footprint tracking with the Sustainability Insights Framework (SIF) on AWS",
+                "homepage": "https://aws.amazon.com/solutions/guidance/sustainability-insights-framework-on-aws/",
+                "id": 602232872,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-01T15:00:08Z",
+                "open_issues": 5,
+                "owner": "aws-solutions-library-samples",
+                "repo": "guidance-for-aws-sustainability-insights-framework",
+                "stars": 29,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "emission budgets",
+              "description": "visualising country-specific carbon budgets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "visualising country-specific carbon budgets ",
+                "homepage": "https://emission-budgets-master-02be942.kuberns.cloud",
+                "id": 211486285,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-04-24T19:52:05Z",
+                "open_issues": 7,
+                "owner": "floriandierickx",
+                "repo": "emission-budgets",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Node Carbon",
+              "description": "A Node Package for Measuring Carbon Footprints.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Calculate carbon footprints of current node process.",
+                "homepage": null,
+                "id": 722374671,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2023-12-07T15:59:38Z",
+                "open_issues": 0,
+                "owner": "sumn2u",
+                "repo": "node-carbon",
+                "stars": 2,
+                "topics": [
+                  "carbon-footprint",
+                  "cpu-usage",
+                  "memory-usage",
+                  "node",
+                  "node-process",
+                  "nodejs"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GHG Country Sector",
+              "description": "Visualization of Greenhouse Gas emissions by Country and Sector",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Visualization of Greenhouse Gas emissions by Country and Sector",
+                "homepage": null,
+                "id": 305130162,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2020-10-18T15:15:55Z",
+                "open_issues": 0,
+                "owner": "martindaniel4",
+                "repo": "ghg_country_sector",
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:59.512Z"
             }
           ],
-          "description": null,
+          "description": "Other specific carbon foot-printing methodologies (not EEIO or LCA framework related)",
           "node_type": "group",
-          "title": "Biodiversity Finance"
+          "title": "Other Carbon Footprint"
         },
         {
           "children": [
@@ -1386,6 +1581,30 @@
             },
             {
               "node_type": "item",
+              "title": "FLOWSA",
+              "description": "Library that attributes resource use, waste, emissions, and loss to economic sectors",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Library that attributes resource use, waste, emissions, and loss to economic sectors",
+                "homepage": null,
+                "id": 225456627,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-01-09T19:48:28Z",
+                "open_issues": 26,
+                "owner": "USEPA",
+                "repo": "flowsa",
+                "stars": 35,
+                "topics": [
+                  "ord",
+                  "research"
+                ]
+              },
+              "first_seen": "2026-11-20T16:03:27.561Z"
+            },
+            {
+              "node_type": "item",
               "title": "open supply chains",
               "description": "Open source codebase behind Sourcemap that allows anyone to visualize and analyze supply chains.",
               "children": [],
@@ -1425,6 +1644,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:59.512Z"
+            },
+            {
+              "node_type": "item",
+              "title": "material-composition-lca",
+              "description": "Estimating material composition of products using LCI databases",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Estimating material composition of products using LCI databases",
+                "homepage": null,
+                "id": 403936287,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-03-26T12:16:01Z",
+                "open_issues": 0,
+                "owner": "levonamatuni",
+                "repo": "material-composition-lca",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T16:03:27.561Z"
             }
           ],
           "description": "Models and Frameworks that indirectly support sustainable finance by helping track material flows and advancing the circular economy.",
@@ -1449,11 +1689,11 @@
                         "id": 48418599,
                         "language": "Java",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-19T16:00:05Z",
-                        "open_issues": 156,
+                        "last_commit": "2026-11-20T15:52:37Z",
+                        "open_issues": 138,
                         "owner": "apache",
                         "repo": "fineract",
-                        "stars": 2636,
+                        "stars": 2637,
                         "topics": [
                           "apache",
                           "banking",
@@ -1495,7 +1735,7 @@
                         "open_issues": 109,
                         "owner": "tigerbeetle",
                         "repo": "tigerbeetle",
-                        "stars": 17403,
+                        "stars": 17409,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:23:59.512Z"
@@ -1579,7 +1819,7 @@
               "title": "Social Vulnerability"
             }
           ],
-          "description": "MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. through financial inclusion and literacy tools and infrastructure",
+          "description": "Frameworks and tools that support the social pillar of sustainable finance, e.g. through financial inclusion and financial literacy tools.",
           "node_type": "group",
           "title": "Social Finance"
         }
@@ -1587,7 +1827,7 @@
       "title": "Open Source Frameworks"
     },
     {
-      "description": "This section collects open data sources (repositories or API endpoints) with data relevant directly or indirectly for sustainable finance workflows",
+      "description": "This section collects open data sources distributing data that are relevant directly or indirectly for sustainable finance workflows. Ideally we provide URL's and API endpoints where the data are accessible (with possible registration requirement)",
       "items": [
         {
           "children": [
@@ -1611,6 +1851,39 @@
                 "topics": []
               },
               "first_seen": "2026-11-17T16:50:16.312Z"
+            },
+            {
+              "node_type": "item",
+              "title": "IWP_Reborn",
+              "description": "The rebirth of IMPACT World+ in a fully automated and transparent fashion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The rebirth of IMPACT World+ in a fully automated and transparent fashion.",
+                "homepage": null,
+                "id": 419020455,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-29T14:40:07Z",
+                "open_issues": 3,
+                "owner": "CIRAIG",
+                "repo": "IWP_Reborn",
+                "stars": 18,
+                "topics": [
+                  "acidification",
+                  "carbon-footprint",
+                  "database",
+                  "ecotoxicology",
+                  "environmental-modelling",
+                  "eutrophication",
+                  "impact-assessment",
+                  "life-cycle-assessment",
+                  "pollutants",
+                  "toxicology",
+                  "water-footprint"
+                ]
+              },
+              "first_seen": "2026-11-20T16:03:27.561Z"
             }
           ],
           "description": null,
@@ -1652,8 +1925,8 @@
                 "id": 299948593,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T10:57:40Z",
-                "open_issues": 263,
+                "last_commit": "2026-11-20T16:00:20Z",
+                "open_issues": 256,
                 "owner": "openghg",
                 "repo": "openghg",
                 "stars": 46,
@@ -1744,11 +2017,11 @@
                     "id": 59370571,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-19T13:11:36Z",
-                    "open_issues": 155,
+                    "last_commit": "2026-11-20T14:44:11Z",
+                    "open_issues": 90,
                     "owner": "electricitymaps",
                     "repo": "electricitymaps-contrib",
-                    "stars": 4056,
+                    "stars": 4055,
                     "topics": [
                       "app",
                       "climate-change",
@@ -1773,11 +2046,11 @@
                 "id": 59370571,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-19T13:11:36Z",
-                "open_issues": 155,
+                "last_commit": "2026-11-20T14:44:11Z",
+                "open_issues": 90,
                 "owner": "electricitymaps",
                 "repo": "electricitymaps-contrib",
-                "stars": 4056,
+                "stars": 4055,
                 "topics": [
                   "app",
                   "climate-change",
@@ -1806,11 +2079,11 @@
                 "id": 49414256,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T14:55:11Z",
-                "open_issues": 178,
+                "last_commit": "2026-11-20T15:18:09Z",
+                "open_issues": 175,
                 "owner": "PyPSA",
                 "repo": "PyPSA",
-                "stars": 2247,
+                "stars": 2250,
                 "topics": [
                   "capacity-expansion-planning",
                   "clean-energy",
@@ -1849,10 +2122,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-19T18:33:40Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "hubblo-org",
                 "repo": "scaphandre",
-                "stars": 2020,
+                "stars": 2019,
                 "topics": [
                   "carbon-footprint",
                   "electricity",
@@ -1880,6 +2153,27 @@
             },
             {
               "node_type": "item",
+              "title": "OEMOF",
+              "description": "Open Energy Modelling Framework - Python toolbox for energy system modelling and optimisation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open Energy Modelling Framework - Python toolbox for energy system modelling and optimisation",
+                "homepage": "https://oemof.org",
+                "id": 56685242,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-09-16T13:23:14Z",
+                "open_issues": 32,
+                "owner": "oemof",
+                "repo": "oemof",
+                "stars": 150,
+                "topics": []
+              },
+              "first_seen": "2026-11-20T16:03:27.561Z"
+            },
+            {
+              "node_type": "item",
               "title": "ETHOS.FINE",
               "description": "Framework for Integrated Energy System Assessment",
               "children": [],
@@ -1890,8 +2184,8 @@
                 "id": 139456829,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T08:51:03Z",
-                "open_issues": 94,
+                "last_commit": "2026-11-20T13:15:58Z",
+                "open_issues": 92,
                 "owner": "FZJ-IEK3-VSA",
                 "repo": "FINE",
                 "stars": 102,
@@ -1971,11 +2265,11 @@
             "id": 296566912,
             "language": null,
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-12T08:27:13Z",
-            "open_issues": 96,
+            "last_commit": "2026-11-20T14:05:39Z",
+            "open_issues": 97,
             "owner": "protontypes",
             "repo": "open-sustainable-technology",
-            "stars": 2588,
+            "stars": 2587,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2158,6 +2452,29 @@
         },
         {
           "node_type": "item",
+          "title": "IE_data_commons",
+          "description": "Code and documentation for a commons of structured industrial ecology data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code and documentation for a commons of structured industrial ecology data",
+            "homepage": null,
+            "id": 138068502,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-06T07:48:52Z",
+            "open_issues": 3,
+            "owner": "IndEcol",
+            "repo": "IE_data_commons",
+            "stars": 28,
+            "topics": [
+              "industrial-ecology"
+            ]
+          },
+          "first_seen": "2026-11-20T16:03:27.561Z"
+        },
+        {
+          "node_type": "item",
           "title": "Climate Modeling",
           "description": "Python package for process-oriented climate modeling",
           "children": [],
@@ -2203,7 +2520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:30:04.520Z",
+    "last_updated": "2026-11-20T16:03:27.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of sustainable finance resources (software, data and more)",
@@ -2211,7 +2528,7 @@
       "id": 492807960,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-17T18:38:02Z",
+      "last_commit": "2026-11-20T14:23:29Z",
       "open_issues": 2,
       "owner": "open-risk",
       "repo": "awesome-sustainable-finance",
@@ -2230,7 +2547,7 @@
         "sustainable-finance"
       ]
     },
-    "original_repository_sha": "be7695dce7790c49f9566cafff1afe34f85f8a38",
+    "original_repository_sha": "ed34d74c47e3e881630b56422fa40dc08950f550",
     "enhanced_repository": "enhansome/enhansome-sustainable-finance",
     "enhanced_repository_description": null,
     "title": "Awesome Sustainable Finance with stars"
